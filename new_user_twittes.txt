@@ -1,0 +1,575 @@
+username	tw_id	content	created_at	favorite_count	retweet_count	replies_count
+drakeeileen	1154801222618091520	@juliette_alex It was great meeting you. Keep reaching for the stars! 🚀	Fri Jul 26 17:10:41 +0000 2019	1	0	0.0
+drakeeileen	1153868638908297217	Talking today with this smart and inspired group left me even more excited for our industry’s future. https://t.co/lpwDg4Xj5G	Wed Jul 24 03:24:56 +0000 2019	11	3	0.0
+drakeeileen	1153770890473156608	.@AerojetRdyne’s newest episode of the social media show “Fuel for Thought” is here! Learn WYNTK about #Apollo11 an… https://t.co/AZ6Yl9jtq9	Tue Jul 23 20:56:30 +0000 2019	0	0	0.0
+drakeeileen	1153504054439481346	Great night meeting all the interns! What a great group.  #ARIntern2019 https://t.co/1wCV9rdM2n	Tue Jul 23 03:16:12 +0000 2019	45	4	3.0
+drakeeileen	1152645856354537473	.@VP Pence from Florida:  “America will return to the moon in the next 5 years, &amp; the next man &amp; the first woman on… https://t.co/P2HW1g9nui	Sat Jul 20 18:26:01 +0000 2019	18	2	0.0
+drakeeileen	1152623138481549314	A very big day 50 years ago! Here’s how @AerojetRdyne ensured #Apollo11 landed safely on the moon. #Apollo50 https://t.co/s1sZblHpb6	Sat Jul 20 16:55:45 +0000 2019	7	0	0.0
+drakeeileen	1152604249513222145	Best of luck to all our @AerojetRdyne athletes as they compete at the 2019 #AerospaceGames. https://t.co/9067HhUinz	Sat Jul 20 15:40:42 +0000 2019	11	1	0.0
+drakeeileen	1151291348252803072	Thank you Deborah Barnhart and @RocketCenterUSA — what a lovely night celebrating #Apollo50th, meeting America’s he… https://t.co/YYmX4MKZTA	Wed Jul 17 00:43:42 +0000 2019	48	5	1.0
+drakeeileen	1151129408406786048	Watching the rocket launch at the US Space and Rocket Center! #Apollo11 https://t.co/icaJAIyrlj	Tue Jul 16 14:00:12 +0000 2019	39	10	0.0
+drakeeileen	1150832741916827648	50 years ago this week Americans landed on the Moon. #Artemis will renew the adventure when we return to stay.… https://t.co/Lr7EwcDGen	Mon Jul 15 18:21:21 +0000 2019	17	6	0.0
+drakeeileen	1148624948497461248	Great news from our partners at @BallAerospace ! Our #GPIM propulsion system is up and running-bringing us closer t… https://t.co/4VtXZx22yz	Tue Jul 09 16:08:22 +0000 2019	18	4	1.0
+drakeeileen	1146878889530220546	A Happy Fourth of July to all! As you celebrate our nation’s independence please take a moment to think of all who… https://t.co/zJLkcOOWhH	Thu Jul 04 20:30:09 +0000 2019	30	4	1.0
+drakeeileen	1146071029506162688	Today’s @NASA_Orion AA-2 test was an awesome sight! It showed the world-class capabilities of @AerojetRdyne enginee… https://t.co/eodU4wcaGX	Tue Jul 02 15:00:01 +0000 2019	69	14	0.0
+drakeeileen	1145796639199830020	Start your Fourth of July week right by watching the @NASA_Orion AA-2 test tomorrow at https://t.co/Jcfw7KLm0m. The… https://t.co/YKrM8PNpv2	Mon Jul 01 20:49:41 +0000 2019	17	5	0.0
+drakeeileen	1144698203859750912	Proud of our RS-25 team and everyone at @AerojetRdyne contributing to this awesome work! #SLSFiredUp https://t.co/HakAuthZqn	Fri Jun 28 20:04:53 +0000 2019	11	4	2.0
+drakeeileen	1144426880021532672	Thanks @NASA 2017 Astronaut Class for visiting us in LA! It was a perfect opportunity for a local #STEM group to le… https://t.co/tBTEBWEgF7	Fri Jun 28 02:06:45 +0000 2019	15	2	2.0
+drakeeileen	1143982788955086853	Great STEM event at our Canoga Park site yesterday with young girls who are so interested in Space! https://t.co/3eLcD2T2mU	Wed Jun 26 20:42:05 +0000 2019	40	4	0.0
+drakeeileen	1143982125982425088	Very proud of the part we play in SLS! https://t.co/zLvdNcsNmt	Wed Jun 26 20:39:27 +0000 2019	33	0	0.0
+drakeeileen	1143486197903306752	Congrats to @NASA_Technology @BallAerospace @AFResearchLab &amp; our @AerojetRdyne team on a successful GPIM launch. Lo… https://t.co/xWcW2JDmgj	Tue Jun 25 11:48:49 +0000 2019	20	8	0.0
+drakeeileen	1140267948805906432	Happy Fathers day to all the wonderful Aerojet Rocketdyne fathers! #FathersDay	Sun Jun 16 14:40:38 +0000 2019	12	0	0.0
+drakeeileen	1137089378197614593	Thank you @GovernorKayIvey  for your support of Aerojet Rocketdyne and our transformation in Huntsville AL. https://t.co/GzOV11pXle	Fri Jun 07 20:10:08 +0000 2019	42	6	1.0
+drakeeileen	1137088350958116865	Thank you @TommyBattle for you support and leadership. Such a great day for Aerojet Rocketdyne! https://t.co/IS0MEi1Vpl	Fri Jun 07 20:06:03 +0000 2019	16	3	0.0
+drakeeileen	1137028717233000454	Leaders from the great state of #Alabama joined @AerojetRdyne today as we cut the ribbon on our AMF — our new home… https://t.co/O4qcdCfjEp	Fri Jun 07 16:09:05 +0000 2019	25	1	3.0
+drakeeileen	1136795538739720192	Great to welcome to our new defense headquarters tonight many leaders, partners and customers who have made… https://t.co/4LcKcHxT8k	Fri Jun 07 00:42:31 +0000 2019	23	1	0.0
+drakeeileen	1136616511748136960	We can never forget the spirit of service and sacrifice that inspired the brave Americans who landed in Normandy 75 years ago today. #DDay75	Thu Jun 06 12:51:08 +0000 2019	19	4	0.0
+drakeeileen	1132979421609172993	As we mark the unofficial start to the summer, let’s make sure to remember the true purpose of this holiday: to rem… https://t.co/AXK6OAhkO9	Mon May 27 11:58:38 +0000 2019	36	3	1.0
+drakeeileen	1131994169201836032	I appreciate the commitment to excellence from the men &amp; women of @AerojetRdyne that helped ensure the success of t… https://t.co/huPzljnfDG	Fri May 24 18:43:36 +0000 2019	35	7	1.0
+drakeeileen	1131000584490946560	Thrilled to join two American legends this evening, William Readdy (right) who flew on three shuttle missions &amp; Tom… https://t.co/PtV79mem0d	Wed May 22 00:55:26 +0000 2019	53	6	0.0
+drakeeileen	1130856324412059648	As the American @RedCross marks today the anniversary of their first meeting in 1881, we are grateful for the relie… https://t.co/1tgZwF0vCY	Tue May 21 15:22:12 +0000 2019	6	0	0.0
+drakeeileen	1129892198466637824	Congratulations to @Oak_Park_High, one of the many rocketry teams @AerojetRdyne supports across the country, for wi… https://t.co/5qpqRjoMlZ	Sat May 18 23:31:07 +0000 2019	29	7	1.0
+drakeeileen	1128451809432023040	Great to be at @airandspace to mark the 50th anniversary of Apollo &amp; the awesome work we’re joining with @NASA, @VP… https://t.co/xf29s7nR8X	Wed May 15 00:07:31 +0000 2019	62	12	0.0
+drakeeileen	1128255749862449155	A great credit to the men &amp; women of @AerojetRdyne — and what they have accomplished since is just as awesome. https://t.co/qkh8DVB0Vz	Tue May 14 11:08:27 +0000 2019	46	7	0.0
+drakeeileen	1128062270737666048	.@AerojetRdyne powered the first lunar mission &amp; we look forward to powering the next. https://t.co/ScclokFJJg	Mon May 13 22:19:38 +0000 2019	22	0	0.0
+drakeeileen	1127618085203185666	Happy Mother's Day to all the wonderful Aerojet Rocketdyne mother's everywhere! #HappyMothersDay	Sun May 12 16:54:36 +0000 2019	20	3	0.0
+drakeeileen	1127301166650482689	Happy National Dog Mom's Day! #NationalDogMomsDay https://t.co/TbRw4ZMgoT	Sat May 11 19:55:17 +0000 2019	9	1	0.0
+drakeeileen	1124353554108620800	Happy National Space Day! 🚀🇺🇸🚀 https://t.co/FxM9QUT7Oc	Fri May 03 16:42:31 +0000 2019	305	48	10.0
+drakeeileen	1123335469520052225	Our successful completion of the Iron Bird Mission is a major milestone for the Medium Range Ballistic Missile (MRB… https://t.co/ouKJ3wXOFj	Tue Apr 30 21:17:01 +0000 2019	12	2	4.0
+drakeeileen	1122990385486123008	Go Pats! https://t.co/wdNPtbTndu	Mon Apr 29 22:25:46 +0000 2019	3	0	0.0
+drakeeileen	1121800242339426305	Proud of the world-class scientists &amp; engineers at @AerojetRdyne who have made sure these powerful American engines… https://t.co/ZEnxMlrvj4	Fri Apr 26 15:36:34 +0000 2019	30	4	0.0
+drakeeileen	1121582857506492416	Thank you @SenTomCotton  for your support of Aerojet Rocketdyne.  Today was a great day for our Camden site and emp… https://t.co/qe0Fhz5FTh	Fri Apr 26 01:12:45 +0000 2019	19	1	2.0
+drakeeileen	1120413819061325829	On this #EarthDay &amp; every day, appreciating what space exploration &amp; discovery has taught us about our planet. https://t.co/Wl6GV2vZHd	Mon Apr 22 19:47:25 +0000 2019	11	5	0.0
+drakeeileen	1117901769487466496	My thoughts are with the people of Paris and their beloved Notre Dame.  #NotreDame	Mon Apr 15 21:25:26 +0000 2019	28	2	0.0
+drakeeileen	1117895847847456768	@Stratolaunch @nytimes Congratulations to the entire team!	Mon Apr 15 21:01:54 +0000 2019	1	0	0.0
+drakeeileen	1116856366143086592	“Above the best.” Happy birthday to @USArmy Aviation! https://t.co/ISJibThUuZ	Sat Apr 13 00:11:22 +0000 2019	9	2	0.0
+drakeeileen	1116478982076002305	@steelholding @AerojetRdyne What an unbelievable and memorable day!	Thu Apr 11 23:11:47 +0000 2019	2	0	0.0
+drakeeileen	1116476944835469312	Celebrating National Pet Day!#NationalPetDay https://t.co/gltsJcBpYm	Thu Apr 11 23:03:41 +0000 2019	14	0	1.0
+drakeeileen	1116372976058765312	@ThePrimalDino @AerojetRdyne @JimBridenstine @SpaceFoundation It's the real size! https://t.co/BxoBJRqkNi	Thu Apr 11 16:10:33 +0000 2019	2	0	0.0
+drakeeileen	1116372643232378880	@Filmtastic6 Yes it is	Thu Apr 11 16:09:14 +0000 2019	0	0	0.0
+drakeeileen	1116372504073785344	@ThePrimalDino @realChefJared @AerojetRdyne @JimBridenstine @SpaceFoundation It's an actual engine.	Thu Apr 11 16:08:40 +0000 2019	2	0	0.0
+drakeeileen	1116372238230417408	@runnymonkey @AerojetRdyne @JimBridenstine @SpaceFoundation We added a smoke machine for the cool factor!	Thu Apr 11 16:07:37 +0000 2019	0	0	0.0
+drakeeileen	1116371711169929217	@KayDesigner @AerojetRdyne @torybruno @ulalaunch For sure!	Thu Apr 11 16:05:31 +0000 2019	3	0	0.0
+drakeeileen	1116026377378070528	Great participating in this important panel. For @AerojetRdyne, the time is now &amp; I appreciate the opportunity from… https://t.co/wnBtVSZP0Z	Wed Apr 10 17:13:17 +0000 2019	19	4	0.0
+drakeeileen	1115440865802162177	Regards from the National Space Symposium.  Love our RS-25! https://t.co/LkVQA5n7Ru	Tue Apr 09 02:26:40 +0000 2019	66	7	3.0
+drakeeileen	1115377814386171905	Awesome to support New Gen leaders at  #SpaceSymposium. I told them what I tell our 5,000 employees, the best rocke… https://t.co/dYTJiHy4EC	Mon Apr 08 22:16:08 +0000 2019	25	4	0.0
+drakeeileen	1114314913101512704	Sure, @PatrickMahomes had a good year. But only @tbrady14 can claim to be as legendary as @AerojetRdyne’s RS-25.… https://t.co/tFTAwSlM63	Fri Apr 05 23:52:32 +0000 2019	24	3	2.0
+drakeeileen	1114190097098977281	The legacy continues ... https://t.co/KGDuK5Gylt	Fri Apr 05 15:36:34 +0000 2019	6	0	0.0
+drakeeileen	1114189162587009024	We’ve now completed acceptance testing for 16 RS-25s that will launch @NASA_SLS’s first four missions. Before the R… https://t.co/9gm7w6ZDjs	Fri Apr 05 15:32:51 +0000 2019	42	10	2.0
+drakeeileen	1113893036587724800	Tested. Proven. Powerful. Ready. https://t.co/XCqDdMEboO	Thu Apr 04 19:56:09 +0000 2019	29	3	1.0
+drakeeileen	1113883525533532160	"Don't forget to tune at approximately 2:35 p.m. (CDT) to see an RS-25 engine test at @NASAStennis on Facebook live! 
+#SLSFiredUp #NASASSC"	Thu Apr 04 19:18:22 +0000 2019	2	0	0.0
+drakeeileen	1113534560514584577	Tune in tomorrow to hear and see the mighty RS-25’s rumble. A sight to behold. #SLSFiredUp https://t.co/nK0DbjXg7L	Wed Apr 03 20:11:42 +0000 2019	22	6	1.0
+drakeeileen	1112799845402722307	Last week astronauts installed six @AerojetRdyne Lithium-Ion batteries on the @Space_Station. Our experience in dev… https://t.co/VjLJEyMMZh	Mon Apr 01 19:32:12 +0000 2019	17	4	1.0
+drakeeileen	1112408902887460864	@cboldenjr @AerojetRdyne Thank you Charlie!	Sun Mar 31 17:38:44 +0000 2019	1	0	0.0
+drakeeileen	1111620727227199490	On National Vietnam War Veterans Day, we remember those who answered their country’s call. We recall their service… https://t.co/mCH6rw3MG8	Fri Mar 29 13:26:48 +0000 2019	39	9	3.0
+drakeeileen	1111602534840524801	As I like to say, the time is now. Today we launched a website that reflects this important moment in the history o… https://t.co/xp4P17LrYL	Fri Mar 29 12:14:31 +0000 2019	28	7	4.0
+drakeeileen	1111297404609937408	Looking forward to picking up where we left off! #RedSoxNation #OpeningDay https://t.co/OS2JqUgBns	Thu Mar 28 16:02:02 +0000 2019	4	0	0.0
+drakeeileen	1110659056941727744	Proud to have supported this important element of our nation’s ballistic missile defense. https://t.co/nnkoHz5pWW	Tue Mar 26 21:45:28 +0000 2019	12	2	1.0
+drakeeileen	1110602802353467392	"""The first woman and the next man on the Moon will both be American astronauts, launched by American rockets from A… https://t.co/13UtfURrqd"	Tue Mar 26 18:01:56 +0000 2019	20	3	0.0
+drakeeileen	1110589015445536774	Awesome day to be in #RocketCity, for the meeting of the National Space Council. The space industry is essential to… https://t.co/BcDiwUZhFy	Tue Mar 26 17:07:09 +0000 2019	22	6	0.0
+drakeeileen	1109513045800157184	Celebrating National Puppy day! https://t.co/wVPa1iqnN7	Sat Mar 23 17:51:38 +0000 2019	16	0	0.0
+drakeeileen	1109157831398309889	Great meeting one of the awesome  teams @AerojetRdyne sponsors, Team4ELEMENT, at @FRCTeams in LA. Our future is in… https://t.co/4B2zvXcPMV	Fri Mar 22 18:20:08 +0000 2019	25	5	0.0
+drakeeileen	1108844362123874305	You can’t celebrate #WomensHistoryMonth2019 without recognizing one of our own at @AerojetRdyne, Mary Sherman Morga… https://t.co/x0FbguN7wJ	Thu Mar 21 21:34:31 +0000 2019	236	66	1.0
+drakeeileen	1108471255999471616	"A full “supermoon” on the first night of spring. Don’t miss it!  
+  https://t.co/eYQ98ocjwN"	Wed Mar 20 20:51:56 +0000 2019	30	5	1.0
+drakeeileen	1107330895307046912	Happy St. Patrick’s Day! ☘️🚀☘️	Sun Mar 17 17:20:33 +0000 2019	20	4	0.0
+drakeeileen	1106715749547237376	At least 700,000 lbs ...	Sat Mar 16 00:36:11 +0000 2019	8	0	0.0
+drakeeileen	1106714825403584513	Thrust brought to you by the great people of @AerojetRdyne. https://t.co/OZ1gKgb2pH	Sat Mar 16 00:32:30 +0000 2019	43	7	2.0
+drakeeileen	1106573284332703745	"""If it goes into space, chances are excellent that it got there courtesy of Aerojet Rocketdyne."" Great piece in… https://t.co/dL5LlT1iA6"	Fri Mar 15 15:10:04 +0000 2019	27	7	3.0
+drakeeileen	1106256203460558848	And though they might not make as much of a show as their AR cousins, thrusters from @AerojetRdyne in #Redmond &amp; CO… https://t.co/wwzQmkBoMP	Thu Mar 14 18:10:06 +0000 2019	6	0	0.0
+drakeeileen	1106210923608506370	Looking forward to having our RS-68 &amp; RL10 in action tomorrow on the #DeltaIV. @torybruno and @ulalaunch, always a… https://t.co/NUX12acZsY	Thu Mar 14 15:10:11 +0000 2019	57	9	6.0
+drakeeileen	1105569393805836288	The @girlscouts provide young women the skills they need to become leaders in industry &amp; their communities. Happy B… https://t.co/o76JxS16oP	Tue Mar 12 20:40:58 +0000 2019	11	1	0.0
+drakeeileen	1104204653019856896	Happy International women's day to all the fabulous women at Aerojet Rocketdyne! #InternationalWomensDay2019	Sat Mar 09 02:17:59 +0000 2019	23	2	0.0
+drakeeileen	1101905070218797058	“Today, the threats and opportunities in space are changing more rapidly than at any point since the Cold War. And… https://t.co/oYkcQGbEji	Sat Mar 02 18:00:15 +0000 2019	13	4	0.0
+drakeeileen	1101541564852129796	If you missed @NASA pioneer Frank Borman’s oral history on @cspan last month, mentioning the work of @AerojetRdyne… https://t.co/z3VuQJBdZJ	Fri Mar 01 17:55:49 +0000 2019	15	4	0.0
+drakeeileen	1101242093836615680	The power of a successful RS-25 test like today’s at @NASAStennis is awesome to witness. Great power comes from the… https://t.co/DEEOpkojV7	Thu Feb 28 22:05:49 +0000 2019	99	22	5.0
+drakeeileen	1100159437778681856	After Scott Ward was honored by the Engineers’ Council as Engineer of the Year, he spoke about “the long-term benef… https://t.co/T88iukTkWc	Mon Feb 25 22:23:44 +0000 2019	10	0	0.0
+drakeeileen	1097941526662074368	The President’s signing of Space Policy Directive 4 sets out more than a new branch of the military; it paves the w… https://t.co/sLMeiXmuiT	Tue Feb 19 19:30:33 +0000 2019	25	4	3.0
+drakeeileen	1097562804515717121	The vision of our founders &amp; leaders allowed the United States to become the greatest nation in the world. On this… https://t.co/gOL0DUVDRN	Mon Feb 18 18:25:38 +0000 2019	19	5	0.0
+drakeeileen	1093581027526803457	On @NASA’s Day of Remembrance, we reflect upon the courage of our fellow Americans &amp; our responsibility to carry fo… https://t.co/c7hHleNFER	Thu Feb 07 18:43:29 +0000 2019	29	8	3.0
+cathyengelbert	1155155478051115010	Catch the @WNBA AT&amp;T All Star Game today at 3:30 EDT, 12:30 Pacific on @ABCNetwork  🏀 https://t.co/EL2i4VD4er	Sat Jul 27 16:38:22 +0000 2019	56	9	0.0
+cathyengelbert	1154861588454600704	3 point and skills competition today at 7 pm EDT, 4 pm Pacific! 🏀  #AllStarWeekend  #WNBA https://t.co/Y9VlpBE11d	Fri Jul 26 21:10:33 +0000 2019	45	3	2.0
+cathyengelbert	1153077289292316672	Important issue that needs awareness. Thank you @LeidosInc for your sponsorship at today’s @WNBA game between the… https://t.co/6ZBgfEOrZJ	Sun Jul 21 23:00:23 +0000 2019	129	20	3.0
+cathyengelbert	1149169586488717313	@ChuckRobbins @Cisco @GPTW_US Congrats!!!	Thu Jul 11 04:12:34 +0000 2019	1	0	0.0
+cathyengelbert	1144610688951816192	Check out Daniel Craig’s video campaign to raise support for a great cause @Opp_Net!  It’s only $10 to enter for a… https://t.co/Ab5HCIUa7t	Fri Jun 28 14:17:08 +0000 2019	7	4	0.0
+cathyengelbert	1143652397249630210	Honored to be recognized and proud of @DeloitteUS and @DrTerriCooper for creating an inclusive culture and investin… https://t.co/NgAZRqSrh3	Tue Jun 25 22:49:14 +0000 2019	101	11	2.0
+cathyengelbert	1140710416286244864	👏🏀 https://t.co/CnR4GCl7TC	Mon Jun 17 19:58:51 +0000 2019	28	4	0.0
+cathyengelbert	1139920710069960704	!!! https://t.co/S9D1bdTyR3	Sat Jun 15 15:40:50 +0000 2019	68	9	1.0
+cathyengelbert	1137028840352624640	Honored to have delivered the graduation address at this year’s  @ArmyWarCollege graduation ceremony today!  It was… https://t.co/6HRIL73X44	Fri Jun 07 16:09:35 +0000 2019	129	12	3.0
+cathyengelbert	1135749978222137344	Honored to spend today at the Allan Shedlin Memorial Classic which has raised millions for cancer research… https://t.co/NCprqp6lp4	Tue Jun 04 03:27:50 +0000 2019	12	0	0.0
+cathyengelbert	1135711984983433216	@MacWorsham @DeloitteUS @NYUGrey @LinkedIn Bravo! 👏	Tue Jun 04 00:56:52 +0000 2019	2	0	0.0
+cathyengelbert	1135031979563520001	Grateful to so many @DeloitteUS colleagues who are rooting for me in my next endeavor🏀!  I have been blessed to hav… https://t.co/MitSkDeJrr	Sun Jun 02 03:54:46 +0000 2019	377	14	11.0
+cathyengelbert	1134930111462068225	A great read on @kobebryant and his daughter, Gianna from @ArashMarkazi via @latimes https://t.co/7fbBYTPpxF 👏🏀	Sat Jun 01 21:09:59 +0000 2019	81	15	1.0
+cathyengelbert	1134283160441753600	@prestonmichaelr This is great Mike!!!  Thank you for your Leadership!!!!	Fri May 31 02:19:14 +0000 2019	7	0	0.0
+cathyengelbert	1133552836250353664	Nice piece on a fellow @LehighU #alum! https://t.co/luhIBNojyj	Wed May 29 01:57:11 +0000 2019	12	0	0.0
+cathyengelbert	1131577818435989505	@KarenHQuintos Thanks for the kind words Karen!! 🏀🏀🏀	Thu May 23 15:09:10 +0000 2019	0	0	0.0
+cathyengelbert	1130990292176461824	@edward_d_thomas Yes 6’5 1/2!!!  A center back in his day (now would be a point guard) Thanks Ed!	Wed May 22 00:14:33 +0000 2019	0	0	0.0
+cathyengelbert	1130594858706640897	Congrats to the #ClassOf2019! Welcome to the @LehighAlumni community! https://t.co/gaN6k0sNKw	Mon May 20 22:03:14 +0000 2019	18	2	0.0
+cathyengelbert	1130565500185059330	33 years after my graduation, so proud of my daughter as my dad was of me! 🏀🥍 https://t.co/D4i5DOTn3b	Mon May 20 20:06:34 +0000 2019	364	5	11.0
+cathyengelbert	1128854829282021377	Thanks @MuffetMcGraw for developing young women leaders (like me in the 80’s!) to thrive on the court and beyond! 🏀… https://t.co/kCwxtiGBpb	Thu May 16 02:48:59 +0000 2019	260	24	0.0
+cathyengelbert	1128849803461431297	😀🏀 https://t.co/NsfIojgIw6	Thu May 16 02:29:00 +0000 2019	157	12	5.0
+cathyengelbert	1128717194945343490	Thrilled and honored! 🏀 https://t.co/n4G9hgbk9q	Wed May 15 17:42:04 +0000 2019	1540	158	18.0
+cathyengelbert	1128396544691048455	Why are women who are gifted in math sometimes unlikely to pursue it? Societal norms and stigmas often compound the… https://t.co/t55cUB5vwc	Tue May 14 20:27:55 +0000 2019	24	6	0.0
+cathyengelbert	1127700524525137921	“Life doesn't come with a manual, it comes with a mother.” Happy #MothersDay to all of the selfless, courageous, an… https://t.co/2yNQUMLOpq	Sun May 12 22:22:11 +0000 2019	103	7	3.0
+cathyengelbert	1126483903127146497	Great day celebrating an amazing leader and human @prestonmichaelr and to hear strategic insights from a high talen… https://t.co/y2uP1e6c1e	Thu May 09 13:47:46 +0000 2019	74	8	3.0
+cathyengelbert	1125944343620202504	#DYK that artificial intelligence created a new sport? #Speedgate is the first of its kind and it merges concepts f… https://t.co/X8aCpkQlBr	Wed May 08 02:03:45 +0000 2019	8	4	0.0
+cathyengelbert	1125393325056565248	#MondayMotivation: Chiquita Evans is shattering glass ceilings in #eSports as the first woman drafted into the… https://t.co/FgEy1W4iJE	Mon May 06 13:34:12 +0000 2019	14	3	1.0
+cathyengelbert	1124648462912512000	"Wi-Fi enabled grills? Fun weekend read! @WSJ covers #tech that will make your next backyard bbq ""smart"" this summer! https://t.co/W6v1yW1cN6"	Sat May 04 12:14:23 +0000 2019	3	1	0.0
+cathyengelbert	1124648195454377984	Impressive! And a fellow @LehighU alum! Congrats @CJMcCollum https://t.co/JcjorAKOil	Sat May 04 12:13:19 +0000 2019	44	7	0.0
+cathyengelbert	1122964587161300998	ICYMI @TEDNews $280 million for 8 world-changing projects, one of which focuses on closing the global education gen… https://t.co/GQeXF9DcnC	Mon Apr 29 20:43:15 +0000 2019	6	2	0.0
+cathyengelbert	1121907603095867392	“The old model of studying one thing is giving way to a need for broadly trained workers.” Interesting perspectives… https://t.co/qS0MAghkJg	Fri Apr 26 22:43:11 +0000 2019	17	7	0.0
+cathyengelbert	1121264094047363072	“Almost everything humans have ever done has been done not by lone individuals, but by groups of people, working to… https://t.co/O8Rl3UTaSh	Thu Apr 25 04:06:06 +0000 2019	23	8	0.0
+cathyengelbert	1121262253339303936	“Long range three”...seems understated!...🏀🏀🏀 https://t.co/Elpyewu46t	Thu Apr 25 03:58:47 +0000 2019	19	1	1.0
+cathyengelbert	1120537420536139782	In celebration of #EarthDay, check out this article about tree-planting drones that are firing seed missiles to res… https://t.co/V3QMSiu7pj	Tue Apr 23 03:58:34 +0000 2019	18	4	0.0
+cathyengelbert	1119338892673671173	Interesting development...Scientists have created a 3-D printed heart using human tissue. https://t.co/aMQ8TfUrwt	Fri Apr 19 20:36:02 +0000 2019	7	1	0.0
+cathyengelbert	1118997682020859910	Great interview! https://t.co/fWYQzgtVe1	Thu Apr 18 22:00:12 +0000 2019	11	0	0.0
+cathyengelbert	1118637794962833414	Inspired by @DeloitteUS’s Margot Keale and her story! https://t.co/4EAOIHVlI4	Wed Apr 17 22:10:08 +0000 2019	45	7	0.0
+cathyengelbert	1118150924512440322	Deeply saddened to see the devastating fire at #NotreDame cathedral, which dates back to the 12th century, and is a… https://t.co/Ef6DuFEOnS	Tue Apr 16 13:55:29 +0000 2019	23	1	0.0
+cathyengelbert	1117764148920758272	#ICYMI: Our @DeloitteUS 2019 #HCTrends report is out! This year’s report explores how organizations must move beyon… https://t.co/kfuOXwDyDC	Mon Apr 15 12:18:34 +0000 2019	11	3	0.0
+cathyengelbert	1117763085736075265	@CarlAllegretti @Gretti_53 Good luck @Gretti_53!  🏈🏈🏈	Mon Apr 15 12:14:21 +0000 2019	2	0	0.0
+cathyengelbert	1117561446496395274	Interesting list! https://t.co/auPwpdcHeX	Sun Apr 14 22:53:06 +0000 2019	29	1	1.0
+cathyengelbert	1116154921202651136	Enjoyed speaking at Tobin Business School @StJohnsU with students tonight about the #workofthefuture, #D&amp;I, Balanci… https://t.co/4HoKCPq18q	Thu Apr 11 01:44:05 +0000 2019	24	4	1.0
+cathyengelbert	1116071976710361091	I’m proud to join fellow #CEOsAgainstCancer today in the @americancancer @MovespringApp and @fitbit… https://t.co/ubefvrZK0G	Wed Apr 10 20:14:29 +0000 2019	24	4	1.0
+cathyengelbert	1115985644474572801	Tech is impacting more than work, it’s also transforming education. High schools are beginning to prepare students… https://t.co/9k1Yn2V68p	Wed Apr 10 14:31:26 +0000 2019	4	2	1.0
+cathyengelbert	1115723995339526147	#ICYMI: Proud to work for a company that prioritizes its people. Congratulations to @DeloitteUS for being named as… https://t.co/UyIrN3FgEu	Tue Apr 09 21:11:44 +0000 2019	35	9	0.0
+cathyengelbert	1115590618699522049	Proud to support the @AmericanCancer Society and my niece’s efforts to raise money for a cure after losing her mom,… https://t.co/TR6mZnSZOY	Tue Apr 09 12:21:44 +0000 2019	8	0	0.0
+cathyengelbert	1114339293747646465	"Proud of audit professional Ainhoa Olarra of @Deloitte_ES ⛳️. 
+Best of luck @anwagolf! https://t.co/WVloIpQSk9"	Sat Apr 06 01:29:25 +0000 2019	13	3	0.0
+cathyengelbert	1113874295036317696	#DYK the global market for #AI #data labeling is set to reach $1 billion by 2023? This may help boost economic and… https://t.co/X9LjToxfEr	Thu Apr 04 18:41:41 +0000 2019	6	0	0.0
+cathyengelbert	1113601833224871936	Thanks @jenfish23 for the insightful perspectives on well-being. So many strong parallels between work and being an… https://t.co/Nq9b1PD0e3	Thu Apr 04 00:39:01 +0000 2019	23	2	0.0
+cathyengelbert	1113522885006696449	Proud of @DeloitteUS for placing #5 on the 2019 @LinkedIn Top Companies list! #LinkedInTopCompanies 👏👏👏 https://t.co/kxrY7xWjOm	Wed Apr 03 19:25:18 +0000 2019	81	21	2.0
+cathyengelbert	1113142573906956295	@FranKatsoudas @SquawkCNBC Kudos Fran!!!	Tue Apr 02 18:14:05 +0000 2019	2	0	0.0
+cathyengelbert	1113123897115897857	Today marks Equal Pay Day – the symbolic date of how far into the year women must work to earn the same amount men… https://t.co/bnFHP1FMSx	Tue Apr 02 16:59:52 +0000 2019	53	12	0.0
+cathyengelbert	1113099690382422016	Priceless!! ⚾️🍼 https://t.co/bwPESC5HL5	Tue Apr 02 15:23:41 +0000 2019	2	1	0.0
+cathyengelbert	1112736940820971521	The “Wright sisters?” Women could be the pioneers behind the future of aviation. Competitions like the @GoFlyPrize… https://t.co/FkZnlUDJzs	Mon Apr 01 15:22:15 +0000 2019	5	1	0.0
+cathyengelbert	1110300036229971968	#ICYMI: “The goal is to create a work environment that becomes deeply meaningful to the employee, not just a way to… https://t.co/NEgobuKP1e	Mon Mar 25 21:58:51 +0000 2019	44	5	2.0
+cathyengelbert	1108476593138216960	Thanks for sharing @CBI_Conferences! It was an honor to speak with Heather on key industry topics.… https://t.co/HB7HucgSEV	Wed Mar 20 21:13:08 +0000 2019	18	0	1.0
+cathyengelbert	1108336558522990592	@herbchain What about St Johns!!??	Wed Mar 20 11:56:42 +0000 2019	0	0	0.0
+cathyengelbert	1108191091495440384	Luv this!  #MarchMadness has begun!!  #jerseypride 🏀🏀🏀 https://t.co/aKy507u1OY	Wed Mar 20 02:18:40 +0000 2019	17	1	3.0
+cathyengelbert	1108142581068824576	#DYK that less than 11% of history #textbook references are devoted to specific women? Take a look at this new app… https://t.co/nCPwouZk4F	Tue Mar 19 23:05:54 +0000 2019	14	3	0.0
+cathyengelbert	1107761165722157061	Great example on the power of partnerships! The Public Interest Technology University Network is a coalition that i… https://t.co/4TbEiMOTSa	Mon Mar 18 21:50:17 +0000 2019	11	2	0.0
+cathyengelbert	1107127334828675072	#bigeastchamps \\V// https://t.co/tMu1PWwkGq	Sun Mar 17 03:51:40 +0000 2019	11	2	0.0
+cathyengelbert	1106661341912317956	Powerful words by @lhariton! Inspired by the attendees and conversations had at the #CatalystAwards2019. https://t.co/WzwzEwdSvg	Fri Mar 15 20:59:59 +0000 2019	8	3	0.0
+cathyengelbert	1105970788761513984	Love this! Every entrepreneur and business leader started somewhere! My first job was working for a pediatrician in… https://t.co/cDcNemyHor	Wed Mar 13 23:15:58 +0000 2019	14	4	1.0
+cathyengelbert	1105643889808101376	This is great! Congrats to Ryan Lupton, an @DeloitteUS #ColleagueForLife! https://t.co/TH8iwTHEGw	Wed Mar 13 01:36:59 +0000 2019	25	5	1.0
+cathyengelbert	1105131060650741761	Fascinating perspective from @MarcusduSautoy. His new book, “The Creativity Code” examines how #AI may impact math,… https://t.co/bgJHKfat7j	Mon Mar 11 15:39:11 +0000 2019	5	2	0.0
+cathyengelbert	1104488917544386560	https://t.co/Ihay6Fpfeg. This is pretty cool...	Sat Mar 09 21:07:33 +0000 2019	15	1	0.0
+cathyengelbert	1104038012378329091	Courage, cognizance of bias, curiosity, cultural intelligence, collaborate, commitment. These are the “six Cs” that… https://t.co/kNFSfjpTSl	Fri Mar 08 15:15:48 +0000 2019	67	21	0.0
+cathyengelbert	1104025810288238592	At @DeloitteUS, we build diversity and inclusion in small acts and big initiatives – it has to happen every day, an… https://t.co/DRaWQeEaOE	Fri Mar 08 14:27:19 +0000 2019	143	24	1.0
+cathyengelbert	1103105766196760577	#Renewableenergy as part of future #SmartCities, but it will require infrastructure supported by technology.… https://t.co/brdRQist2M	Wed Mar 06 01:31:24 +0000 2019	19	7	0.0
+cathyengelbert	1101156975176343552	This will be interesting! @TheAAF is using #data to innovate by implanting chips in players’ shoulder pads to help… https://t.co/zi7p2674hq	Thu Feb 28 16:27:36 +0000 2019	4	2	1.0
+cathyengelbert	1101129069200990208	Great example of the depth and breadth of #AI conversations—@Pontifex and @BradSmi met to discuss the development o… https://t.co/9Z1rKbrR5k	Thu Feb 28 14:36:42 +0000 2019	9	3	1.0
+cathyengelbert	1100761057298169856	This is fun!  Congrats @janetfoutty!  #girlsrule https://t.co/Piv8LznL9S	Wed Feb 27 14:14:21 +0000 2019	43	4	0.0
+cathyengelbert	1100517502214389761	The #ChiefDataOfficer will play an increasingly crucial role in the smart cities of the future, driving data modern… https://t.co/VYxMA3mzRZ	Tue Feb 26 22:06:33 +0000 2019	28	3	1.0
+cathyengelbert	1100078894420389888	Weekend went fast and #Grateful for running in to Amy and these @DeloitteUS committed professionals on Friday eveni… https://t.co/GND2yXbO4S	Mon Feb 25 17:03:41 +0000 2019	32	3	0.0
+cathyengelbert	1099287397353824256	#DYK that of the 100 top-grossing movies in 2018, 40 featured female leads and 28 featured people of color? This gr… https://t.co/icDVfM0ZdT	Sat Feb 23 12:38:33 +0000 2019	18	3	0.0
+cathyengelbert	1098072171203702784	👏👏👏 https://t.co/A9yON9UlKk	Wed Feb 20 04:09:41 +0000 2019	53	11	0.0
+cathyengelbert	1097911534217498626	There are endless benefits to increasing gender diversity in the world. For one, the global economy would expand by… https://t.co/GSGEWRPY14	Tue Feb 19 17:31:22 +0000 2019	22	17	0.0
+cathyengelbert	1097601299779063814	Interesting read! https://t.co/Pf336iEHwB	Mon Feb 18 20:58:36 +0000 2019	7	2	0.0
+cathyengelbert	1095756750874124288	#Socialentrepreneurship is not just a trend, it’s the #future. Great look at the social accomplishments of Schwab S… https://t.co/vhH4gp1HrW	Wed Feb 13 18:49:02 +0000 2019	18	1	1.0
+cathyengelbert	1095445230944428032	Correction...my teenage son corrected me and said football season has just begun...the new @TheAAF (The Alliance of… https://t.co/h0zOtY8wyc	Tue Feb 12 22:11:10 +0000 2019	32	1	2.0
+cathyengelbert	1095347401966174209	Interesting article examining this year’s #SuperBowl commercials, with #robots acting key roles. According to… https://t.co/Dx04wLBaux	Tue Feb 12 15:42:25 +0000 2019	5	1	0.0
+cathyengelbert	1094712912621506560	Now that #football season is officially over, I’m looking forward to #MarchMadness, and eventually, #golf weather! https://t.co/UnOY9kUOBI	Sun Feb 10 21:41:11 +0000 2019	12	0	0.0
+cathyengelbert	1094019469603717122	👏👏👏 https://t.co/g7QJxiO5Ru	Fri Feb 08 23:45:42 +0000 2019	0	1	0.0
+cathyengelbert	1093362197651173376	Energize. Empower. Enrich. Engage. Exercise. Love the “5 E’s” of Girls Golf! https://t.co/jCYQBytx1C	Thu Feb 07 04:13:56 +0000 2019	33	8	0.0
+cathyengelbert	1092526594512617474	The #futureofmobility is more than driverless cars. #Technology is redefining our #railways as well. Automation for… https://t.co/DGlAS1EoN9	Mon Feb 04 20:53:32 +0000 2019	9	4	0.0
+cathyengelbert	1091377625820528640	Very saddened to hear of the passing of Pierre Nanterme, a dedicated leader at Accenture for over three decades. Ha… https://t.co/2UQhUe3k3x	Fri Feb 01 16:47:57 +0000 2019	32	2	0.0
+cathyengelbert	1090699571456561154	“AI and machine learning are not purely agnostic processes of objective data analysis.” Important point from… https://t.co/m1IsPpVoTV	Wed Jan 30 19:53:36 +0000 2019	10	2	1.0
+cathyengelbert	1090373145574416384	Kudos to @LehighWBB Play4Kay Free Throw Challenge on https://t.co/FNA7usNKXB! https://t.co/ygneVD4ix1 via @pledgeit   A great cause 🏀🏀🏀	Tue Jan 29 22:16:30 +0000 2019	9	1	0.0
+cathyengelbert	1090345699835895808	There is a heightened focus on “doing good” through #ESG investments. Companies that focus on #social and… https://t.co/ptfoxf8f7E	Tue Jan 29 20:27:27 +0000 2019	7	1	0.0
+cathyengelbert	1088922587940442119	“Coach. Please. Thanks.” Three simple, yet powerful words Michael Jordan used to demonstrate his… https://t.co/zMwHaEHgrj	Fri Jan 25 22:12:30 +0000 2019	38	12	0.0
+cathyengelbert	1088921922400931841	“Yes you can!” Love this advice and story from @DrTerriCooper! https://t.co/8DLiw3xmvW	Fri Jan 25 22:09:52 +0000 2019	11	2	0.0
+cathyengelbert	1088571637379801088	“Having people with different experiences in industries, different ethnicities, different life experiences are impo… https://t.co/7fPbSsj1wV	Thu Jan 24 22:57:57 +0000 2019	27	2	0.0
+cathyengelbert	1087889911703916545	Two of my faves ⚾️⚾️! Mariano Rivera, Roy Halladay headline the 2019 Baseball Hall of Fame class  https://t.co/oepnxS1D2r	Wed Jan 23 01:49:01 +0000 2019	2	0	0.0
+cathyengelbert	1087886532445392901	Great piece from @WSJ on Johnson &amp; Johnson’s innovative use of wearable technology to detect AFib early, improve di… https://t.co/4AOfkf2csI	Wed Jan 23 01:35:35 +0000 2019	13	3	0.0
+cathyengelbert	1086026816475807744	👏👏👏Sarah Thomas for shattering the ‘pigskin’ ceiling @NFL #playoff game! https://t.co/AjmBCMrSQL https://t.co/9R4tJnkjlO	Thu Jan 17 22:25:45 +0000 2019	9	2	0.0
+cathyengelbert	1085623168327405568	“Flying Taxis, Build Them, But Will They Come?” Great #CES2019 panel topic! @DeloitteUS’ @robinlineberger led a dis… https://t.co/F37eXFVB5U	Wed Jan 16 19:41:47 +0000 2019	10	1	0.0
+cathyengelbert	1084775730670645249	Read this over the weekend - interesting about Karen Sparck Jones, a true pioneer who laid the foundation for searc… https://t.co/DUCTYdJEaG	Mon Jan 14 11:34:23 +0000 2019	15	4	0.0
+cathyengelbert	1083491004156706819	The IT labor market is tighter than ever before, and companies are battling over the top talent available. To get a… https://t.co/b2YzxslBbE	Thu Jan 10 22:29:20 +0000 2019	5	1	0.0
+cathyengelbert	1082747578809241601	Well deserved #GoArmy 🏈 https://t.co/PqJOeAqLeu	Tue Jan 08 21:15:13 +0000 2019	6	0	0.0
+cathyengelbert	1082469468113113089	Thoughtful piece from @adamlashinsky on San Francisco's Tipping Point charity, which funds non-profit groups in the… https://t.co/Rxnvr0Ny1u	Tue Jan 08 02:50:07 +0000 2019	12	4	0.0
+cathyengelbert	1081328223093432320	Thanks for the shout out @LehighU!  Go Mountain Hawks! 🏀🥍 https://t.co/63ESpB6WwH	Fri Jan 04 23:15:13 +0000 2019	10	0	0.0
+cathyengelbert	1081326955679625217	@petegiorgio @DeloitteTMT Good luck!!!	Fri Jan 04 23:10:10 +0000 2019	0	0	0.0
+cathyengelbert	1081019160568754176	Well deserved! 🏈 https://t.co/pYqLvb3xRd	Fri Jan 04 02:47:06 +0000 2019	4	0	0.0
+cathyengelbert	1079471956515266561	Pretty cool!  First win back in 1982 as the coach of @LehighU and 900th win today against Lehigh!  Congrats… https://t.co/UPPM30eDKg	Sun Dec 30 20:19:04 +0000 2018	37	4	0.0
+cathyengelbert	1078708756416995328	Investments in #infrastructure are tied to economic growth and productivity. Kathy Wylde of @Partnership4NYC, NY le… https://t.co/CsfWNesxZ9	Fri Dec 28 17:46:23 +0000 2018	11	2	0.0
+cathyengelbert	1078132330433269760	This article on a retiree who has clocked in more than 64K miles driving underserved students to college throughout… https://t.co/X3MM0H2iiI	Thu Dec 27 03:35:52 +0000 2018	21	4	0.0
+cathyengelbert	1078130564253786112	#honored https://t.co/HzKYDlmMWs	Thu Dec 27 03:28:51 +0000 2018	316	61	10.0
+cathyengelbert	1074863296753360897	#proud https://t.co/3ddjEQSuCR	Tue Dec 18 03:05:54 +0000 2018	15	3	0.0
+cathyengelbert	1073576769784086530	Agree, @iamcal! While we may not be able to predict which #techskills will be needed several years from now, we mus… https://t.co/IaifpWQHPF	Fri Dec 14 13:53:42 +0000 2018	9	2	1.0
+cathyengelbert	1072987624590184449	From #blockchain to #biotech, I’m inspired by the female leaders on this list! https://t.co/Nwxr1a5G71	Wed Dec 12 22:52:39 +0000 2018	10	2	0.0
+cathyengelbert	1072874190229962752	With technology providing new possibilities across industries, great example of how #MorseCode is being used to mak… https://t.co/4Xv6HqV3dO	Wed Dec 12 15:21:54 +0000 2018	5	2	0.0
+cathyengelbert	1072596686101463040	Agree with @BethFordLOL when she says “The best tool for productivity is to have the best talent. You’re never real… https://t.co/CYI3EKmaP0	Tue Dec 11 20:59:12 +0000 2018	20	7	0.0
+cathyengelbert	1071482478441971712	This is cool!!  #GoArmy #BeatNavy https://t.co/nrgzyjTtW4	Sat Dec 08 19:11:44 +0000 2018	9	1	1.0
+susanwojcicki	1155420606608920581	Thanks @itsDanBull for the time and feedback.  We are working hard to communicate more openly and frequently with c… https://t.co/inYb86PTiO	Sun Jul 28 10:11:53 +0000 2019	263	16	19.0
+susanwojcicki	1155417605265604608	Congrats @AlfieDeyes on 10 years on YouTube!  🎉 So glad I could celebrate with you doing a video interview. Looking… https://t.co/xEIch83zAo	Sun Jul 28 09:59:58 +0000 2019	215	9	10.0
+susanwojcicki	1148754836151607296	In my April letter to creators, we shared that @YouTube is focused on improving the manual claim experience for cre… https://t.co/Kuq4Xh9ilE	Wed Jul 10 00:44:30 +0000 2019	2243	105	16.0
+susanwojcicki	1146449196947595264	@derraleves I will make sure someone gets back to you and find out why you didn’t get a response earlier.	Wed Jul 03 16:02:43 +0000 2019	10	0	0.0
+susanwojcicki	1143323287545450496	Very cool @hankgreen, looking forward to watching! https://t.co/lvuACd4U25	Tue Jun 25 01:01:28 +0000 2019	219	13	18.0
+susanwojcicki	1142289646723850241	@h3h3productions Yes it really is me.	Sat Jun 22 04:34:09 +0000 2019	9405	96	0.0
+susanwojcicki	1141454127005724674	Excited to partner with @UMG to remaster some of the most iconic music videos of all time on @YouTube! https://t.co/h4n1CcXKgY	Wed Jun 19 21:14:05 +0000 2019	2484	128	20.0
+susanwojcicki	1134269550768189440	Celebrating 20 years at Google!  Joined in May 1999 as employee 16. https://t.co/P36lFdhbGp	Fri May 31 01:25:09 +0000 2019	20157	657	18.0
+susanwojcicki	1130642251250454529	Sharing a video that reflects my latest letter to creators (https://t.co/nJkvRRwarf) on @YouTube's 2019 priorities,… https://t.co/JrPUuoj7Zq	Tue May 21 01:11:33 +0000 2019	995	102	0.0
+susanwojcicki	1129438412358836225	Thank you for bringing so much joy to people around the world @RealGrumpyCat. We'll miss you! https://t.co/3MzzcsT3t0	Fri May 17 17:27:56 +0000 2019	1178	117	15.0
+susanwojcicki	1126892548839038976	Great to see the innovation @ #io19 and the many @YouTube creators covering it @MKBHD @qbking77 @michaeljosh… https://t.co/zyeO4O8wWp	Fri May 10 16:51:34 +0000 2019	219	8	17.0
+susanwojcicki	1125963413966868487	.@IISuperwomanII your dress was so beautiful and there was no way I was going to let a dirty puddle ruin it!! I was… https://t.co/9etghr8pnu	Wed May 08 03:19:31 +0000 2019	2361	103	20.0
+susanwojcicki	1125809026241970177	And look who was at the top of the red carpet at the #metgala ! @lizakoshy interviewing stars for @voguemagazine in… https://t.co/xYSFeah2D7	Tue May 07 17:06:03 +0000 2019	2253	102	17.0
+susanwojcicki	1125802423941918720	.@YouTube officially attends #MetGala for first time. Was great to see so many YouTube creators on the red carpet.… https://t.co/LVSmfTtEtk	Tue May 07 16:39:48 +0000 2019	2829	144	16.0
+susanwojcicki	1124086324607225856	Ready for a great #Brandcast 2019 @YTAdvertisers! https://t.co/3sgWmPBCBi	Thu May 02 23:00:38 +0000 2019	267	12	21.0
+susanwojcicki	1124021310466736129	My #1 priority is responsibility, even if that comes at the expenses of growth. https://t.co/AnOVkBG0LJ	Thu May 02 18:42:18 +0000 2019	213	37	15.0
+susanwojcicki	1124004759155949572	Thank you @smartereveryday for the shoutout and thanks to all creators who asked insightful questions and helped… https://t.co/Gjfn5jMufV	Thu May 02 17:36:32 +0000 2019	123	8	16.0
+susanwojcicki	1123984222463590402	Loved spending time yesterday with @YouTube creators at the North America #CreatorSummit. Thanks for the great conv… https://t.co/mFnESzud7R	Thu May 02 16:14:55 +0000 2019	6154	161	18.0
+susanwojcicki	1123320903109152770	.@YouTube's past, present, and future success starts with creators. Just posted my quarterly letter with an update… https://t.co/pvDxSyDktO	Tue Apr 30 20:19:08 +0000 2019	1702	209	21.0
+susanwojcicki	1121935637433610240	Thinking of all those struggling to start or grow a family this National Infertility Awareness Week. Beautiful spot… https://t.co/ot1yMiZolD	Sat Apr 27 00:34:35 +0000 2019	159	13	0.0
+susanwojcicki	1121934034995568640	Excited to be interviewing @EricSchmidt, @jjrosenberg, and @AEagleJR about their new book, 'Trillion Dollar Coach'… https://t.co/XoXnSZAcEj	Sat Apr 27 00:28:13 +0000 2019	94	29	11.0
+susanwojcicki	1121604727500730368	Don't miss the premiere of @taylorswift13 ME! featuring @brendonurie of @PanicAtTheDisco on @YouTube tonight! https://t.co/lNAo3q0Ub6	Fri Apr 26 02:39:40 +0000 2019	84	5	14.0
+susanwojcicki	1120841526437801984	It was an honor to speak at #PBWC with @KatiMorton where we spoke about YouTube, being a creator, mental health and… https://t.co/D1YGuN71pM	Wed Apr 24 00:06:58 +0000 2019	112	12	18.0
+susanwojcicki	1120835835505434624	#KoreaGrandma started making YouTube videos at the age of 70 and has such an inspiring story. It was wonderful to g… https://t.co/giVTwl5peT	Tue Apr 23 23:44:21 +0000 2019	80	13	19.0
+susanwojcicki	1120013135736229888	Appreciate the time and more importantly the conversation @CollinsKey @devankey!  Great hearing all of your thought… https://t.co/hN7fY74CIp	Sun Apr 21 17:15:15 +0000 2019	1438	72	19.0
+susanwojcicki	1119060612410036224	The tea — actually the diet root beer—was great ☕️.  But the conversation and your insights were even better!!  We… https://t.co/RiDF1VVYsx	Fri Apr 19 02:10:15 +0000 2019	27366	917	16.0
+susanwojcicki	1119017905398484993	Was *sister super* meeting you, @JamesCharles :) Enjoyed hearing your feedback and ideas for @YouTube over a pink d… https://t.co/gHZipsFqrf	Thu Apr 18 23:20:33 +0000 2019	4687	155	17.0
+susanwojcicki	1118225243003187200	Really enjoyed meeting you @iamMostlySane, hope to see you again soon! https://t.co/rnNwDwaCsg	Tue Apr 16 18:50:48 +0000 2019	137	7	17.0
+susanwojcicki	1118170350531932160	Last week in Mumbai, I sat down with @IamMostlySane to talk about YouTube's influence in India and our focus on res… https://t.co/BCwdj2Va2b	Tue Apr 16 15:12:40 +0000 2019	1019	62	18.0
+susanwojcicki	1116373599827451906	Yesterday went to my first cricket match ⁦@mipaltan⁩ vs ⁦⁦⁦@lionsdenkxip⁩ #MIvKXIP .  Great for a long time Googler… https://t.co/Vmbzs9oBn3	Thu Apr 11 16:13:02 +0000 2019	1315	71	16.0
+susanwojcicki	1116241407256268801	And also meeting with the talented kids and future stars @Dharaviproject! https://t.co/eZeRKZcZH6	Thu Apr 11 07:27:44 +0000 2019	135	16	0.0
+susanwojcicki	1116241381293473792	A highlight of being in Mumbai for #Brandcast2019 was meeting Naezy and friends and hearing how @ZoyaAkhtarOff hear… https://t.co/Df1x8VuZm7	Thu Apr 11 07:27:38 +0000 2019	250	17	19.0
+susanwojcicki	1116234998665940992	Earlier this week, @YouTube highlighted the incredible opportunity and momentum in India at #Brandcast2019. Thank y… https://t.co/A3K7efFjgC	Thu Apr 11 07:02:16 +0000 2019	128	10	0.0
+susanwojcicki	1110877809147183104	So close on Article 13.  When MEPs corrected their votes it showed there would have been a majority for voting on a… https://t.co/RXanPArQOR	Wed Mar 27 12:14:43 +0000 2019	955	117	15.0
+susanwojcicki	1110826965731172352	Thank you to the tens of thousands of creators and EU citizens who spoke out about the unintended consequences of A… https://t.co/FSVZB3XMUy	Wed Mar 27 08:52:41 +0000 2019	2056	397	23.0
+susanwojcicki	1110614238970540032	Today, the EU voted on #Article13 which may have unintended consequences for creators. We appreciate the creators w… https://t.co/OnwTrlztaP	Tue Mar 26 18:47:23 +0000 2019	2803	471	14.0
+susanwojcicki	1108806121924358144	Many creators spoke out about the impact of #Article13 on Europe’s creative economy (our take here:… https://t.co/dSt1ZwIkum	Thu Mar 21 19:02:34 +0000 2019	484	86	17.0
+susanwojcicki	1104103854365270016	From wanting to find a community of female gamers to bravely revealing a struggle with fertility to the world, a fe… https://t.co/ephEJYJxQB	Fri Mar 08 19:37:26 +0000 2019	240	20	17.0
+susanwojcicki	1104099373405728768	This #IWD2019 @YouTube playlist shows some remarkable stories of courage and resilience. Truly inspiring on any day… https://t.co/wHHb4b0OdW	Fri Mar 08 19:19:38 +0000 2019	522	63	21.0
+susanwojcicki	1103720112064888832	Last night hosted Ms Alice Marie Johnson at the @YouTube Pop Up space in DC to talk about criminal justice reform,… https://t.co/XMKCzhXwgn	Thu Mar 07 18:12:35 +0000 2019	94	12	20.0
+susanwojcicki	1103711069309149185	Just finished several days in Washington DC meeting with members of Congress to talk about YouTube. https://t.co/NAX1Wap5LX	Thu Mar 07 17:36:39 +0000 2019	256	12	18.0
+susanwojcicki	1102618240717533184	Important Article 13 update: The latest version of the copyright directive will still hurt creators more than it he… https://t.co/M6whpUBNP8	Mon Mar 04 17:14:08 +0000 2019	2463	622	17.0
+susanwojcicki	1102461217166123009	Thanks @WillieGeist for the chance to talk about @YouTube on #SundayToday! https://t.co/TdDiwQVDAD	Mon Mar 04 06:50:11 +0000 2019	168	13	16.0
+susanwojcicki	1101672617646252032	Thanks for a tough but important conversation around tech and responsibility today @karaswisher. #LWTSummit https://t.co/DJd9IF2Fh7	Sat Mar 02 02:36:34 +0000 2019	151	12	19.0
+susanwojcicki	1101672146621759488	Great to see so many familiar @YouTube @Google faces today at the #LWTSummit! https://t.co/JUdARgkVsH	Sat Mar 02 02:34:42 +0000 2019	1024	67	16.0
+susanwojcicki	1101535808866021376	Looking forward to speaking at the @lesbiantech event with @karaswisher! https://t.co/ibGZB9Ghle	Fri Mar 01 17:32:57 +0000 2019	72	7	13.0
+susanwojcicki	1101534287780671488	Hey @shanedawson, how does next month sound?  ☕️ https://t.co/Fixq4NzjJf	Fri Mar 01 17:26:54 +0000 2019	43768	1432	17.0
+susanwojcicki	1101182716593135621	Recently, there have been some deeply concerning incidents regarding child safety on YouTube. Nothing is more impor… https://t.co/6oDaFUOsUA	Thu Feb 28 18:09:53 +0000 2019	435	144	18.0
+susanwojcicki	1095819500216233984	Thank you to all the YouTube creators who spoke up on Article 13.  Your videos were viewed hundreds of millions of… https://t.co/4J2FwB0XqH	Wed Feb 13 22:58:22 +0000 2019	1383	193	20.0
+susanwojcicki	1095490115810381825	Thank you for speaking to our team and sharing your story with us @AliceMarieFree. Proud that @YouTube was a part o… https://t.co/i3fhXfZroO	Wed Feb 13 01:09:31 +0000 2019	192	13	17.0
+susanwojcicki	1095132223592787968	Today, policy makers in Europe started meetings to decide on a final text of the #EUCopyrightDirective. We remain c… https://t.co/a2pK2Z4W0T	Tue Feb 12 01:27:23 +0000 2019	153	34	20.0
+susanwojcicki	1093542096282083328	A big thank you to all the creators who helped bring attention to Article 13. The debate remains ongoing and could… https://t.co/IrswPFtXZb	Thu Feb 07 16:08:47 +0000 2019	1295	395	20.0
+susanwojcicki	1092876110650519552	2018 was a year of growth… and growing up.  Reflecting on this past year and sharing our priorities for supporting… https://t.co/wKBC1pt03m	Tue Feb 05 20:02:24 +0000 2019	1503	152	18.0
+susanwojcicki	1088186256457064448	Excited to announce that YouTubeTV is going nationwide! https://t.co/cbzE10nYBM https://t.co/RlrFIpTmEV	Wed Jan 23 21:26:35 +0000 2019	362	64	18.0
+susanwojcicki	1087918969254604800	Great read about many of the creators who are shining a light on accessibility through their @YouTube videos: https://t.co/uiVAzTJSHp	Wed Jan 23 03:44:29 +0000 2019	1229	136	19.0
+susanwojcicki	1085275094438469632	Headed back to school yesterday to join @AROD at a class he's teaching at the @StanfordGSB. We spoke about the impo… https://t.co/5nd3FLdupL	Tue Jan 15 20:38:40 +0000 2019	137	9	19.0
+susanwojcicki	1085263590976761856	Congrats @maggierogers on being @youtube's first #ArtistOnTheRise in 2019! https://t.co/1CDFxNWur8	Tue Jan 15 19:52:57 +0000 2019	103	11	15.0
+susanwojcicki	1084933095512395781	You can now swipe left or right to navigate between @YouTube videos on mobile! The new feature is rolling out to iP… https://t.co/QOSXWLrGyR	Mon Jan 14 21:59:41 +0000 2019	486	107	20.0
+susanwojcicki	1073337999058862080	Thank you for visiting @YouTube HQ and spending time to talk with our teams about learning content on YouTube… https://t.co/h7bMZ8Nuly	Thu Dec 13 22:04:55 +0000 2018	138	11	19.0
+susanwojcicki	1073337861334695936	A reminder of all the good things the world searched for in 2018. #YearInSearch https://t.co/Xqd18fnuPS	Thu Dec 13 22:04:22 +0000 2018	89	17	17.0
+susanwojcicki	1070754369665150976	#YouTubeRewind is live! Check out @YouTube's celebration of the trends, music, creators, and memes that shaped 2018: https://t.co/XPZ3tToaPp	Thu Dec 06 18:58:30 +0000 2018	285	26	18.0
+susanwojcicki	1070754109739790336	Learn more about how you can try the # HourofCode with @ codeorg this # CSEdWeek: https://t.co/yNE9I5eieE	Thu Dec 06 18:57:28 +0000 2018	34	3	11.0
+susanwojcicki	1070393739019874305	Mastanamma was a remarkable 107-year-old YouTuber who shared her favorite traditional Indian cooking recipes on… https://t.co/PqTmdo4L3A	Wed Dec 05 19:05:28 +0000 2018	1693	412	20.0
+susanwojcicki	1069742271778631681	Congrats to @ArianaGrande on her record-breaking launch of 'thank u, next'. It was the biggest 24hr debut of any vi… https://t.co/xuTxu2bxIL	Mon Dec 03 23:56:47 +0000 2018	562	53	17.0
+susanwojcicki	1069018508174872576	President George H. W. Bush served his country with loyalty and devotion. His public service leaves behind a lastin… https://t.co/6gxihdRYMF	Sun Dec 02 00:00:48 +0000 2018	90	9	18.0
+susanwojcicki	1068386020415090688	Congrats @reedhastings on the John Wooden Global leadership award:  it was an honor to be back @uclaanderson and in… https://t.co/4oQNGENaHf	Fri Nov 30 06:07:31 +0000 2018	75	10	16.0
+susanwojcicki	1068287788464914434	This week, @YouTube introduced the YouTube Premium student plan! Now students can access ad-free videos,… https://t.co/3H4hYGXvfe	Thu Nov 29 23:37:11 +0000 2018	165	33	18.0
+susanwojcicki	1068260648813965312	Double rainbow 🌈 today! https://t.co/NfumctyZMw	Thu Nov 29 21:49:20 +0000 2018	268	17	14.0
+susanwojcicki	1067483370051891200	Nobel Peace Laureate Kailash Satyarthi has spent his life working tirelessly to end child slavery.  Today, we are p… https://t.co/654GbArZoG	Tue Nov 27 18:20:42 +0000 2018	611	85	16.0
+susanwojcicki	1063863341951533056	Thank you @Andreas_Schwab for the time and engaging discussion on #copyright.  We are looking forward to working to… https://t.co/IjY5mWPwgG	Sat Nov 17 18:36:01 +0000 2018	115	19	18.0
+susanwojcicki	1063071652387397632	.@OriginSeries is our newest original series! Watch the first episode here: https://t.co/GDHI417lWo #LeaveEarth https://t.co/7IoJs8KAnW	Thu Nov 15 14:10:07 +0000 2018	86	12	15.0
+susanwojcicki	1062803795283984384	Thank you @ManfredWeber for the time today. We look forward to working together on key issues including supporting… https://t.co/4H49JYtXXj	Wed Nov 14 20:25:45 +0000 2018	77	14	12.0
+susanwojcicki	1062735355454152705	Thank you @Ansip_EU for meeting in Strasbourg and look forward to finding a balanced solution together on article 1… https://t.co/XbCQ6d2Wcg	Wed Nov 14 15:53:48 +0000 2018	221	29	13.0
+susanwojcicki	1062734473110962178	@HelgaTruepel @YouTube Thank you @HelgaTruepel for the engaging conversation in Strasbourg and look forward to find… https://t.co/AeJvULq8rM	Wed Nov 14 15:50:17 +0000 2018	15	1	0.0
+susanwojcicki	1062403607549698048	Thinking of all those in California affected by the devastating wildfires, and the first responders and firefighter… https://t.co/Bk3T3L2sqO	Tue Nov 13 17:55:33 +0000 2018	60	10	8.0
+susanwojcicki	1062401705889931264	Love the message that listening is honoring. https://t.co/smtgsIclh2	Tue Nov 13 17:47:59 +0000 2018	31	7	5.0
+susanwojcicki	1062074819703988230	Great to be in Warsaw and celebrate the 100th anniversary of the restoration of Polish independence with Prime Mini… https://t.co/zLCmN6A5sQ	Mon Nov 12 20:09:04 +0000 2018	798	174	16.0
+susanwojcicki	1061945416114147331	Today I shared concerns in the @FT about the unintended consequences of Article 13, proposed copyright legislation… https://t.co/RXNbky33pe	Mon Nov 12 11:34:51 +0000 2018	1687	500	22.0
+susanwojcicki	1061744998679371776	Google is celebrating the 100th anniversary of the restoration of Polish independence with a very special Doodle!… https://t.co/muflnvTpm4	Sun Nov 11 22:18:28 +0000 2018	620	138	16.0
+susanwojcicki	1059881120508956672	Find your polling place and #GoVote: https://t.co/0rqNinF3Jn https://t.co/I684aHJZPn	Tue Nov 06 18:52:05 +0000 2018	135	19	16.0
+susanwojcicki	1059336300354912256	Glad #BreakthroughPrize could corrrect for being Burnell being overlooked by Nobel in 1974.  Burnell plans to give… https://t.co/GXu8evUlrT	Mon Nov 05 06:47:10 +0000 2018	70	18	12.0
+susanwojcicki	1059333280426688512	Celebrating science tonight at #BreakthroughPrize 2018. Incredible stories of commitment for key discoveries. Photo… https://t.co/qrBP7h2uO8	Mon Nov 05 06:35:10 +0000 2018	57	9	4.0
+susanwojcicki	1056992995734503424	Thank you for speaking up about Article 13 @IamLeroySanchez. #SaveYourInternet https://t.co/O2TPlmruW8	Mon Oct 29 19:35:42 +0000 2018	135	29	19.0
+susanwojcicki	1056278151997747200	So saddened by this senseless loss of life. My heart is with #Pittsburgh’s #TreeofLife, Jewish-American community a… https://t.co/Qd6V1UcgtU	Sat Oct 27 20:15:10 +0000 2018	191	13	15.0
+susanwojcicki	1055485878540226560	Remembering when I was an intern @IndiaToday over 25 years ago!  @aroonpurie #ThrowbackThursday https://t.co/xjj3cDrx1c	Thu Oct 25 15:46:58 +0000 2018	1115	171	18.0
+susanwojcicki	1055484853737541634	Congratulations on crossing 10 Million Subscribers on your YouTube Channel @aajtak! Thank you for your partnership… https://t.co/C5sj0ix7x6	Thu Oct 25 15:42:53 +0000 2018	239	34	14.0
+susanwojcicki	1054871542851547136	"""I used to teach a classroom of kids, 30 kids at a time. Now I teach hundreds of thousands at a time."" Inspiring wo… https://t.co/tgPaApz7Vb"	Tue Oct 23 23:05:49 +0000 2018	232	46	0.0
+susanwojcicki	1054864001274761216	Don't miss the second annual #YouTubeBlack FanFest tonight at 7:30pm EST! https://t.co/47Dmoci3tB https://t.co/LowVAwFrR7	Tue Oct 23 22:35:50 +0000 2018	34	5	3.0
+susanwojcicki	1054537148227964929	Proud to share that earlier today, we announced that YouTube is investing $20M in YouTube Learning, a new initiativ… https://t.co/3zQkYXeT30	Tue Oct 23 00:57:03 +0000 2018	1272	294	16.0
+susanwojcicki	1054503524862578688	@MohamadBakka Appreciate your support!	Mon Oct 22 22:43:26 +0000 2018	28	0	0.0
+susanwojcicki	1054503186369662976	Not yet. EU lawmakers are discussing it now, and it may be finalized by the end of 2018. We hope you'll make your v… https://t.co/tvas2T7NRv	Mon Oct 22 22:42:06 +0000 2018	173	37	15.0
+susanwojcicki	1054502515444604928	Thank you @CaseyNeistat for sharing my quarterly creator letter. https://t.co/0KMl5Yr5VO	Mon Oct 22 22:39:26 +0000 2018	149	9	7.0
+susanwojcicki	1054501846071500800	Thank you for using your voice to speak up, @guglielmoscilla. #SaveYourInternet https://t.co/RvZFfM5xgg	Mon Oct 22 22:36:46 +0000 2018	33	3	4.0
+susanwojcicki	1054404602898989056	We are thankful to everyone who makes our YouTube community such a meaningful place, and I feel privileged to be a… https://t.co/AF7dyZUqq3	Mon Oct 22 16:10:21 +0000 2018	217	34	0.0
+susanwojcicki	1054404602047549441	Decisions on Article 13 could be finalized by the end of the year, so it’s important to speak up now.  Learn more a… https://t.co/H4QAlnP9S2	Mon Oct 22 16:10:21 +0000 2018	396	179	0.0
+susanwojcicki	1054404601028403201	We realize the importance of all rights holders being fairly compensated, which is why YouTube built Content ID and… https://t.co/STgjxxQEfn	Mon Oct 22 16:10:21 +0000 2018	174	32	0.0
+susanwojcicki	1054404600176926720	In my quarterly creator letter, I discuss Article 13, proposed legislation in the EU that could drastically change… https://t.co/MbAKonikkP	Mon Oct 22 16:10:21 +0000 2018	238	62	0.0
+susanwojcicki	1054404599149293568	Thank you to creators around the world who continue to make YouTube an incredible source of creativity and inspirat… https://t.co/MxRE440zHt	Mon Oct 22 16:10:20 +0000 2018	1224	282	17.0
+susanwojcicki	1053370019738832896	Thank you for the video #KoreaGrandma, hoping we get to meet in-person! https://t.co/K4gz5dF3SR	Fri Oct 19 19:39:18 +0000 2018	35	4	19.0
+susanwojcicki	1053369567353815040	#AratheStarEngineer is a book written by a Googler who wanted to inspire her daughter to explore the magic of STEM.… https://t.co/TuHBZfw9fS	Fri Oct 19 19:37:30 +0000 2018	65	16	6.0
+susanwojcicki	1053365441928716289	I recently spoke at the annual Women@YouTube Summit and talked with our teams about mentorship, career growth, and… https://t.co/aZWhldkrkx	Fri Oct 19 19:21:06 +0000 2018	138	19	16.0
+susanwojcicki	1052405559209512960	YouTube is back.  Sorry to everyone who was impacted. Thank you to the teams who resolved this. https://t.co/703DvCgzE5	Wed Oct 17 03:46:52 +0000 2018	1937	197	17.0
+susanwojcicki	1052001644278308864	Paul Allen left a lasting mark on our world with his dedication to technology and his generous philanthropic work.… https://t.co/yE8ZHp00gD	Tue Oct 16 01:01:51 +0000 2018	151	12	20.0
+susanwojcicki	1051997734947811328	Really enjoyed my talk with @provenself at #WIRED25 about the past, present and future of YouTube. Good luck… https://t.co/jENOP5nn0R	Tue Oct 16 00:46:19 +0000 2018	71	5	6.0
+susanwojcicki	1051996144518094848	So impressed by the stories shared last week at @RoomtoRead's SF Benefit. Thanks  @IISuperwomanII and @annewoj23 fo… https://t.co/CleVn6qS7e	Tue Oct 16 00:40:00 +0000 2018	208	17	10.0
+susanwojcicki	1051970930019201029	Great feature on @DerekBlasberg and his efforts leading fashion and beauty at @YouTube! https://t.co/QkseX43Dby	Mon Oct 15 22:59:49 +0000 2018	41	8	5.0
+susanwojcicki	1051968426011316224	25 years ago when I took my first CS class I realized how creative coding can be!  So glad to see @codeorg focused… https://t.co/7hUcbKTIEQ	Mon Oct 15 22:49:52 +0000 2018	91	18	7.0
+susanwojcicki	1051966856058175488	Join this year's #HourofCode and see what you will create! @codeorg https://t.co/e3VoFpTSgs  https://t.co/0eAf0S7Ykk	Mon Oct 15 22:43:37 +0000 2018	26	6	5.0
+susanwojcicki	1049737670883196928	Be sure to tune into the #AMAs, presented by @YouTubeMusic! https://t.co/cFerOFr6Z4	Tue Oct 09 19:05:38 +0000 2018	43	6	11.0
+susanwojcicki	1049736272162562049	7 European YouTube creators recorded sounds that express their culture and heritage to celebrate the European Year… https://t.co/V6RTUEd2uh	Tue Oct 09 19:00:05 +0000 2018	30	9	9.0
+susanwojcicki	1048027344248561665	Congrats @HankGreen on your new book reaching #1 on the NYT Best Seller list! https://t.co/AO4E3RpfWK	Fri Oct 05 01:49:24 +0000 2018	139	10	14.0
+susanwojcicki	1045724333069426688	Check out the @ShawnMendes Artist Spotlight Story, directed by @CaseyNeistat: https://t.co/YSCWAaN4S1 https://t.co/apnAO23udZ	Fri Sep 28 17:18:04 +0000 2018	314	39	18.0
+susanwojcicki	1045723574424588288	Excited we will bringing more fashion and beauty creators to @YouTube! https://t.co/j2mGTJ3ug8	Fri Sep 28 17:15:03 +0000 2018	52	4	15.0
+susanwojcicki	1045522429534121984	What a way to celebrate your 50th @WillSmith! https://t.co/8blutZ49GT	Fri Sep 28 03:55:46 +0000 2018	37	5	8.0
+susanwojcicki	1045492035380105216	"Google's first HQ really looked like this.  Happy bday!  #SearchIs20
+https://t.co/uERqRMzu3j https://t.co/2JyYVHZ7Ua"	Fri Sep 28 01:55:00 +0000 2018	438	69	17.0
+susanwojcicki	1044340829760892928	Proud to see your continued impact as a @UNICEF Goodwill Ambassador @IISuperwomanII! https://t.co/Gopi2iZ6Vz	Mon Sep 24 21:40:31 +0000 2018	82	7	14.0
+susanwojcicki	1044340153282482176	Excited to see YouTube's NextUp program focus on empowering female voices. Read more about the #WomentoWatch event: https://t.co/YAr7rxceDx	Mon Sep 24 21:37:50 +0000 2018	33	3	10.0
+susanwojcicki	1043192455292641280	I loved Mr Rodgers and his show growing up. So happy to see the Google Doodle this am celebrating Mr Rodgers.… https://t.co/j06zi3UpTE	Fri Sep 21 17:37:17 +0000 2018	62	8	17.0
+susanwojcicki	1041205318909288448	Inspired tonight at #GLAADgala #EqualityForALL https://t.co/LQOzyulyMd	Sun Sep 16 06:01:07 +0000 2018	96	9	16.0
+susanwojcicki	1040406598273777664	Great to see @YouTubeTV listed as the Best Streaming Experience for sports fans! https://t.co/B27it6HlRi	Fri Sep 14 01:07:17 +0000 2018	99	11	16.0
+susanwojcicki	1039959381167591424	The opportunity for anyone to earn a living is core to who we are @YouTube. Today's EU copyright vote undermines th… https://t.co/eH1jgzp0fE	Wed Sep 12 19:30:12 +0000 2018	10076	1330	17.0
+susanwojcicki	1038250410144755712	Learn more about European copyright rules and how Article 13 could put the creative economy of creators and artists… https://t.co/bu58SyseGw	Sat Sep 08 02:19:22 +0000 2018	1015	306	20.0
+susanwojcicki	1037153994102136833	So impressed with how you’re using your voice to help others around the world, Riley. Learn how you can… https://t.co/k80AgzAPsN	Wed Sep 05 01:42:36 +0000 2018	50	12	17.0
+susanwojcicki	1037099826406551552	Thank you for sending me such a thoughtful letter, #KoreanGrandma. I'm sorry you couldn't find me when you were her… https://t.co/JMyjRWPixa	Tue Sep 04 22:07:21 +0000 2018	86	20	10.0
+susanwojcicki	1035980233164255232	Harvesting home grown honey! https://t.co/L3xglOeXlz	Sat Sep 01 19:58:29 +0000 2018	541	22	18.0
+susanwojcicki	1035696127440445441	So glad to see so many creators standing up to Cancer. @SU2C. #Up2Us. https://t.co/rSguXbpzkB	Sat Sep 01 01:09:33 +0000 2018	47	5	16.0
+susanwojcicki	1035695473909067777	Stand up to cancer!   Tune in to @SU2C digital live event streaming on YouTube at 7ET/4PT. https://t.co/SUcueKnRjY	Sat Sep 01 01:06:57 +0000 2018	50	8	6.0
+susanwojcicki	1034460025727713280	So glad to see the progress for women and minority groups in Computer science!! https://t.co/2EW28CVgS4	Tue Aug 28 15:17:44 +0000 2018	103	16	16.0
+susanwojcicki	1034459086656602112	. @YouTube just released tools that help provide a better understanding of time spent on YouTube and support your d… https://t.co/WyDYh6aVp2	Tue Aug 28 15:14:00 +0000 2018	115	19	19.0
+susanwojcicki	1031735745197703168	Six women making STEM more accessible on @YouTube: https://t.co/vgXA7nYebi	Tue Aug 21 02:52:25 +0000 2018	349	130	15.0
+susanwojcicki	1030621299133935616	Great look into some of the creators who are building serious businesses on @YouTube: https://t.co/vrgOGsNyVz	Sat Aug 18 01:04:00 +0000 2018	159	32	17.0
+susanwojcicki	1029904390415474688	Titanic in 5 minutes from @JKCorden @ArianaGrande 😂 https://t.co/axZufCXqHE	Thu Aug 16 01:35:16 +0000 2018	612	76	17.0
+susanwojcicki	1029463549200846848	Visited @LEGO_Group in Denmark where the first Legos were created.  Thank you Lego for inspiring me to create as a… https://t.co/JUVCIUkWkX	Tue Aug 14 20:23:31 +0000 2018	389	20	16.0
+susanwojcicki	1029173243310002176	New video from the @YouTube Creator Insider channel to explain a new subs shelf we are experimenting with and updat… https://t.co/COxsju8BRj	Tue Aug 14 01:09:56 +0000 2018	82	12	18.0
+susanwojcicki	1028448169242386432	Interesting read from @CNN on the many new ways creators are growing their businesses: https://t.co/ZYl9fh7Fck	Sun Aug 12 01:08:45 +0000 2018	85	13	18.0
+susanwojcicki	1028447608400998400	A look inside the community of book lovers and readers on YouTube via the @nytimes: https://t.co/NH5PifIbnd	Sun Aug 12 01:06:32 +0000 2018	85	12	11.0
+susanwojcicki	1028447424560484353	Great piece featuring some of YouTube's best known twins! https://t.co/PFyh3jsoCO	Sun Aug 12 01:05:48 +0000 2018	55	2	8.0
+susanwojcicki	1023055960498040832	Thanks for your feedback and suggestions, @MKBHD https://t.co/i9NkaEiD2i	Sat Jul 28 04:02:03 +0000 2018	728	25	17.0
+susanwojcicki	1023055809075236864	Congrats @harto! https://t.co/O9qp1rLwaE	Sat Jul 28 04:01:26 +0000 2018	95	5	16.0
+susanwojcicki	1020340563063652353	Proud to announce a new initiative called YouTube Learning. We're investing in education focused creators and exper… https://t.co/YJzlD4gMxV	Fri Jul 20 16:12:01 +0000 2018	336	101	17.0
+susanwojcicki	1020340243403194368	Sharing an update on my priorities for creators in 2018. Read my letter to creators (https://t.co/Z8my6kUKlz) or wa… https://t.co/SHziNqNX4S	Fri Jul 20 16:10:45 +0000 2018	684	81	18.0
+susanwojcicki	1019377051097354240	Welcome back @SimoneGiertz! https://t.co/vG1qlGPoxE	Wed Jul 18 00:23:22 +0000 2018	80	6	8.0
+susanwojcicki	1019337010220273664	I love Pandas but I thought the most popular emoji on YouTube would be a cat.  #WorldEmojiDay https://t.co/AwSRJVLsCn	Tue Jul 17 21:44:16 +0000 2018	46	7	18.0
+susanwojcicki	1019335580755419138	Congrats to @GunsNRoses on having the first music video from the 90s to reach the 1 billion milestone! https://t.co/1cJcQIOcPB	Tue Jul 17 21:38:35 +0000 2018	107	25	10.0
+susanwojcicki	1018997689512366080	Couldn't agree more @AlexisOhanian. Thank you for drawing attention to such an important issue facing so many famil… https://t.co/HqKNibWuJD	Mon Jul 16 23:15:55 +0000 2018	150	21	8.0
+susanwojcicki	1018543463262900225	Congrats @hkstunts on your Emmy nomination for Outstanding Stunt Coordination in Cobra Kai! https://t.co/ztHJa4TT1x	Sun Jul 15 17:10:59 +0000 2018	41	3	8.0
+susanwojcicki	1016459688995536897	Today we shared @YouTube’s $25M investment to support the future of news in online video. We’re partnering with the… https://t.co/gBvNqvFrMd	Mon Jul 09 23:10:49 +0000 2018	683	185	18.0
+susanwojcicki	1013110587797041152	An important message to an important community from @YouTube. https://t.co/EtfUC1vLtq	Sat Jun 30 17:22:41 +0000 2018	117	18	17.0
+susanwojcicki	1012762170558332928	Excited for our newest YouTube Original #LizaOnDemand. Watch the first episode here: https://t.co/imopY0ciDB. Congr… https://t.co/zLgKMuiKzo	Fri Jun 29 18:18:12 +0000 2018	79	4	19.0
+susanwojcicki	1011423813634932737	Thank you for visiting us @YouTube, @SamuelTsui @SincerelyCass11 @HelloXRyan and Elle Bradford! https://t.co/pYuKMDmcdW	Tue Jun 26 01:40:03 +0000 2018	179	23	16.0
+susanwojcicki	1011423521161949185	Welcome to the @YouTube family, @DerekBlasberg! https://t.co/MAmykzmHK2	Tue Jun 26 01:38:53 +0000 2018	63	4	4.0
+susanwojcicki	1010274374010658816	Lots of great announcements at #VidCon2018! @YouTube is expanding channel memberships to more creators, introducing… https://t.co/d8NpewOtub	Fri Jun 22 21:32:35 +0000 2018	165	43	14.0
+susanwojcicki	1009933461564502016	Insightful spotlight on @philipwang and @wongfupro! https://t.co/3AYzsSIXBm	Thu Jun 21 22:57:55 +0000 2018	60	7	13.0
+susanwojcicki	1009933279384834049	If you can’t to make it to #YouTubeOnStage tonight, you can still tune in to the livestream! 6:30pm PST:… https://t.co/fP0sZsO3yD	Thu Jun 21 22:57:12 +0000 2018	35	12	9.0
+susanwojcicki	1009561654563168256	Today is #WorldRefugeeDay, a reminder we must speak up for those most vulnerable at our borders in the US and aroun… https://t.co/S3auYwj9bX	Wed Jun 20 22:20:29 +0000 2018	1811	212	13.0
+carlyfiorina	1153344195278573575	Thank you @corabarry_rwlc &amp; @rwlc_setlc_dc for having me at the Southeast Tennis &amp; Learning Center this morning to… https://t.co/j5YDsFjWTt	Mon Jul 22 16:40:58 +0000 2019	14	1	1.0
+carlyfiorina	1153336877933637637	As you set your mind, your heart, and your will on choosing integrity, as time goes on you will become the person o… https://t.co/hR2IkfdSBs	Mon Jul 22 16:11:54 +0000 2019	53	11	3.0
+carlyfiorina	1150778405564100609	Thank you @F1 for the wonderful time at the British Grand Prix. It was a pleasure to speak at The F1 Extreme Innova… https://t.co/xQ2yUypdmk	Mon Jul 15 14:45:26 +0000 2019	35	2	3.0
+carlyfiorina	1146535466474209281	It was wonderful to share a conversation about my life path, which included dropping out of law school, with… https://t.co/sq3ft0xjti	Wed Jul 03 21:45:31 +0000 2019	37	9	2.0
+carlyfiorina	1141805926665506816	I’ve spent an uplifting two days with leaders in the #SaltLakeCity non-profit community sponsored by #amexleads &amp;… https://t.co/0NAdMRSOcj	Thu Jun 20 20:32:01 +0000 2019	18	3	0.0
+carlyfiorina	1141382469062545408	I’m in #SaltLakeCity today on behalf of #amexleads meeting nonprofit leaders who deal with the most challenging iss… https://t.co/qWBhcba2VV	Wed Jun 19 16:29:21 +0000 2019	17	1	0.0
+carlyfiorina	1141126498419499009	"On my way to #SaltLakeCity for the Unlocking Potential Emerging Leaders Lab sponsored by #amexleads 
+You can follow… https://t.co/qZhrTFgvMV"	Tue Jun 18 23:32:12 +0000 2019	17	0	0.0
+carlyfiorina	1140626027582038020	"Leaders run to problems.🏃🏽‍♀️
+
+To learn more about AmEx funded leadership programs, visit @LeaderStories_… https://t.co/aQhRUNcOii"	Mon Jun 17 14:23:31 +0000 2019	32	7	3.0
+carlyfiorina	1139248486757654528	Here’s what I’ve discovered: As you learn to harness the power within you, you will begin to make more sense out of… https://t.co/pPRmvSk5vA	Thu Jun 13 19:09:40 +0000 2019	21	5	0.0
+carlyfiorina	1138554347669872642	Looking forward to you all hearing my interview on @EntreLeadership where I talk about effective collaboration, lis… https://t.co/XVc81hdC2p	Tue Jun 11 21:11:24 +0000 2019	15	0	1.0
+carlyfiorina	1138512993044631552	Head over to my instagram and follow me @ carlyfiorina for some behind the scenes moments during my interview today with @kellanhowell	Tue Jun 11 18:27:04 +0000 2019	11	2	3.0
+carlyfiorina	1138486484028313601	#ChoosetoLead I’ve been focused on building leaders across all sectors for years. I’ve always believed that the peo… https://t.co/ZzsGPLVOCp	Tue Jun 11 16:41:44 +0000 2019	20	6	0.0
+carlyfiorina	1138057509980319746	@rawksongs @LeaderStories_ @AmericanExpress Hi Aaron - we’ve already had event participants chosen through our part… https://t.co/uM58p1DEgR	Mon Jun 10 12:17:09 +0000 2019	0	0	0.0
+carlyfiorina	1137824720307384325	"In 10 days I’ll be in Salt Lake City in partnership with @LeaderStories_ 
+
+I’ll be speaking with leaders from non-p… https://t.co/ApbZEvIqDq"	Sun Jun 09 20:52:07 +0000 2019	53	4	4.0
+carlyfiorina	1137821974254825475	@LloydBustard It’s wonderful to hear you found insight from Find Your Way. Thank you for the recommendation!	Sun Jun 09 20:41:13 +0000 2019	1	0	0.0
+carlyfiorina	1137058261000237063	"#FindYourWay is now available to download as an audiobook 🎧 
+
+I’m excited that those of you on the go can also lear… https://t.co/DZzfDzX9f4"	Fri Jun 07 18:06:29 +0000 2019	45	3	5.0
+carlyfiorina	1132074902905937922	Leadership isn’t about title, position, or power. It was wonderful to be invited to do this interview with… https://t.co/EuhpRlhf5a	Sat May 25 00:04:24 +0000 2019	70	19	3.0
+carlyfiorina	1131279311976189953	.@EricPahls is a good friend, he’s very talented, and my team and I will miss him. I am proud of him and I know he'… https://t.co/pDZDvDx2gd	Wed May 22 19:23:00 +0000 2019	45	8	2.0
+carlyfiorina	1130944800910446600	As with our guests, &amp; like I say about my kids and grandkids, I don’t have favorites. Each one gave me a different… https://t.co/bxeuA1AMHg	Tue May 21 21:13:47 +0000 2019	8	0	0.0
+carlyfiorina	1130944799786315777	We finished season 1 and it included inspiring guests, and we are in the process of taping season 2 right now. I’d… https://t.co/VZGfc9r6C0	Tue May 21 21:13:46 +0000 2019	12	3	0.0
+carlyfiorina	1130944798800711681	“By Example” is a series of conversations with people who are leaders, not because they’re famous, although some of… https://t.co/pPG5mFnRb8	Tue May 21 21:13:46 +0000 2019	1	1	0.0
+carlyfiorina	1130944797949272064	In my interview with @DailySignal I had the opportunity to talk about why I created my podcast By Example. https://t.co/sFWRhorAnm	Tue May 21 21:13:46 +0000 2019	28	9	7.0
+carlyfiorina	1130842394482696193	I’ve always told the women who ask for my advice not to get a chip on their shoulder. Sometimes we have to collabor… https://t.co/r6nYJuieAX	Tue May 21 14:26:51 +0000 2019	276	37	9.0
+carlyfiorina	1130143310218235906	Thanks @LauraCoxKaplan for having me on the podcast! https://t.co/gw3Bx7zFSp	Sun May 19 16:08:56 +0000 2019	29	3	3.0
+carlyfiorina	1129541246496772099	What a wonderful day in #slc for @GovHerbert Utah Economic Summit. Good things are happening in Utah! Great to be w… https://t.co/zYf3ZDjHHP	Sat May 18 00:16:33 +0000 2019	49	4	2.0
+carlyfiorina	1129132074324103178	I recently spoke with @benshapiro on his podcast and we covered a variety of topics. Tune into the Sunday Special e… https://t.co/F1iFlxk8re	Thu May 16 21:10:39 +0000 2019	851	61	18.0
+carlyfiorina	1128409540024852480	Are you still looking for a graduation gift? My book #FindYourWay gives new high school and college graduates the t… https://t.co/vRSh8NBsaI	Tue May 14 21:19:33 +0000 2019	12	1	3.0
+carlyfiorina	1128343979739754497	Behind the scenes from my interview with @TeamCavuto on @FoxBusiness talking trade &amp; my new book #FindYourWay 🎥 https://t.co/tGOYBpdjcL	Tue May 14 16:59:03 +0000 2019	23	1	1.0
+carlyfiorina	1127257594102521856	We need to make sure we don’t assassinate someone’s character because we disagree with them. We also need to make s… https://t.co/pqOsJcVHHE	Sat May 11 17:02:08 +0000 2019	168	26	19.0
+carlyfiorina	1126903307283369985	If you haven’t had a chance to check out my book yet and you want to help a woman in your life find her path, head… https://t.co/46bCkU6D2S	Fri May 10 17:34:19 +0000 2019	21	3	0.0
+carlyfiorina	1126902397433974785	Of course I was happy to sign a book for my friend @morningmika today and I’m so thrilled to be among her and dozen… https://t.co/kFx4yQK1ji	Fri May 10 17:30:43 +0000 2019	51	2	9.0
+carlyfiorina	1126889461382561792	Learn more about what my organizations are doing in this space 👉🏻 https://t.co/YLD0KE2xrn https://t.co/jFzYpTisyw	Fri May 10 16:39:18 +0000 2019	12	3	3.0
+carlyfiorina	1126867373527531521	@Org4Success @audible_com Hi Emily, sign up for our newsletter at https://t.co/X8No95LV2c and youll be alerted when… https://t.co/Ecptxes4Vh	Fri May 10 15:11:32 +0000 2019	1	0	0.0
+carlyfiorina	1126852399942053889	@mimiller09 I hope you enjoy it - let me know what you think!	Fri May 10 14:12:02 +0000 2019	0	0	0.0
+carlyfiorina	1126851849951350784	@ImHarrietTheSpy Thank you and please let me know what you think! I never had a plan to be a CEO, or run for presid… https://t.co/2pf3R8dslG	Fri May 10 14:09:51 +0000 2019	0	0	0.0
+carlyfiorina	1126827212357939200	Proud to be part of the #ASCEND2019 Summit happening today as we discuss how to drive real change for women in lead… https://t.co/bksaVAFzsw	Fri May 10 12:31:57 +0000 2019	38	3	2.0
+carlyfiorina	1126582439143518209	"86% of women report that, when they see more women in leadership, they can see themselves there, too. 
+
+Im on my wa… https://t.co/TvqUlgZfQK"	Thu May 09 20:19:19 +0000 2019	38	8	4.0
+carlyfiorina	1125760881697140736	Come join me, @morningmika and others at the #ASCEND2019 Summit as we talk about how to elevate more women in leade… https://t.co/L19lCPwHrm	Tue May 07 13:54:44 +0000 2019	15	4	4.0
+carlyfiorina	1123579566084239361	@SusanLe72524925 Thank you so much! I really hope you enjoy Find Your Way! Let me know what you think of it	Wed May 01 13:26:58 +0000 2019	1	0	0.0
+carlyfiorina	1123382022477467648	So many people feel powerless and frustrated because it seems like people fight and nothing gets done. But everyone… https://t.co/Txe8q4Ezey	Wed May 01 00:22:00 +0000 2019	42	4	2.0
+carlyfiorina	1123366093219880961	Great to be with you, @marthamaccallum! https://t.co/oaqJKlSwcn	Tue Apr 30 23:18:42 +0000 2019	103	5	8.0
+carlyfiorina	1123294193835581441	The answer is not in Washington. Politics doesn't solve problems. Leaders in communities do. I wrote this book for… https://t.co/WiRNXq5YZS	Tue Apr 30 18:33:00 +0000 2019	40	6	4.0
+carlyfiorina	1123264264771338240	Get a job, work hard and focus on excellence. That's my advice for new graduates and all who want to begin solving… https://t.co/ySPVr7EJmq	Tue Apr 30 16:34:04 +0000 2019	47	10	6.0
+carlyfiorina	1123232330028650496	Thank you @SheinelleJones &amp; @CraigMelvin for having me on #3rdHourToday to discuss my new book Find Your Way.	Tue Apr 30 14:27:10 +0000 2019	20	0	1.0
+carlyfiorina	1123214167136034817	Looking forward to joining the @TODAYshow shortly to talk about my new book, Find Your Way! Hope you'll tune in!	Tue Apr 30 13:15:00 +0000 2019	26	1	1.0
+carlyfiorina	1122878696191418368	Learn more at https://t.co/BmdOgFRl7s https://t.co/Xs5s8RN6RT	Mon Apr 29 15:01:57 +0000 2019	32	6	2.0
+carlyfiorina	1121405545691451393	@Roolyfe1911 @DaveRamsey Glad you were tuned in! Check out some of the leadership work we do on… https://t.co/ME4rBPEi6t	Thu Apr 25 13:28:11 +0000 2019	0	0	0.0
+carlyfiorina	1121100541747191808	Learn how these human characteristics are necessary for effective leadership in my new book, Find Your Way.… https://t.co/TSEvVUFXMF	Wed Apr 24 17:16:12 +0000 2019	23	5	0.0
+carlyfiorina	1120749174344097792	I wrote this book, Find Your Way, because I think our cultural lifts up outrage, conflict, controversy; we lift up… https://t.co/P9tYmOwvwT	Tue Apr 23 18:00:00 +0000 2019	33	4	1.0
+carlyfiorina	1120709244645462016	When you’re different, it’s different. It is different, when you’re different. https://t.co/8SNsLrh4jZ	Tue Apr 23 15:21:20 +0000 2019	30	0	3.0
+carlyfiorina	1120416985685217280	I think these human qualities – courage, character, humility, empathy, collaboration, and seeing possibilities – ar… https://t.co/pMOTcfZGjK	Mon Apr 22 20:00:00 +0000 2019	38	10	1.0
+carlyfiorina	1120416185244426243	Thanks to @marthamaccallum for having me on The Untold Story to talk about overcoming fear, tools for resilience, a… https://t.co/N2GyLjg75n	Mon Apr 22 19:56:49 +0000 2019	25	3	0.0
+carlyfiorina	1120372979962085376	Leadership takes collaboration; nothing worthwhile is achieved by acting alone. https://t.co/ZGdfIANkmr	Mon Apr 22 17:05:08 +0000 2019	56	12	2.0
+carlyfiorina	1119979832820084736	“...just as Christ was raised from the dead through the glory of the Father, we too may live a new life.” Romans 6:… https://t.co/l3OhojdvSA	Sun Apr 21 15:02:55 +0000 2019	162	15	3.0
+carlyfiorina	1119269429236232192	If you have spent a lifetime (or even an hour) allowing fear to rule your world, I have good news for you. No matte… https://t.co/jTrcYlbsPi	Fri Apr 19 16:00:01 +0000 2019	97	15	3.0
+carlyfiorina	1119231522991689729	The practice of character may not yield immediate, socially approved benefits, but it certainly yields strength for… https://t.co/u796WKbNB6	Fri Apr 19 13:29:24 +0000 2019	72	10	5.0
+carlyfiorina	1118955932627755010	There’s a lot of pressure on young people today to have a plan. But getting too fixated on a plan often means missi… https://t.co/NZL8u3Q6Ds	Thu Apr 18 19:14:18 +0000 2019	49	8	0.0
+carlyfiorina	1118917956883369984	In fact, I've learned time and again that the people closest to the problem, the ones most affected by the problem,… https://t.co/WeBoxCANIC	Thu Apr 18 16:43:24 +0000 2019	54	12	4.0
+carlyfiorina	1118665445350023168	I started my podcast, By Example, because a lot of people are confused about leadership. Leadership is not about ti… https://t.co/IBwYQxhsox	Thu Apr 18 00:00:00 +0000 2019	47	7	0.0
+carlyfiorina	1118605047561183233	I wrote this book, Find Your Way, because there are a lot of people in our country who are feeling powerless and ho… https://t.co/VfaYZbjhOA	Wed Apr 17 20:00:00 +0000 2019	32	6	2.0
+carlyfiorina	1118535367454613504	@TeeDee1 I'm so glad! That's exactly right, and I'm also excited to see what you do with that realization!	Wed Apr 17 15:23:07 +0000 2019	1	0	0.0
+carlyfiorina	1118211694117965826	To change the order of things, we must take action—bold, decisive action. Things don't get changed on their own. At… https://t.co/Cp2gHaHKX2	Tue Apr 16 17:56:57 +0000 2019	36	2	3.0
+carlyfiorina	1118190286209986561	What you are is God’s gift to you; what you make of yourself is your gift to God. Unlock your God-given potential.… https://t.co/nxMKJ9uMUg	Tue Apr 16 16:31:53 +0000 2019	58	8	1.0
+carlyfiorina	1116460917758287872	"This book is all about the potential that each individual has to solve the problems in their own lives.
+
+Order your… https://t.co/ubIWnPKaMa"	Thu Apr 11 22:00:00 +0000 2019	56	12	5.0
+carlyfiorina	1116430722787463169	People can solve problems that are closest to them. The big idea behind this book is that you can work with the peo… https://t.co/K76VTwYR23	Thu Apr 11 20:00:01 +0000 2019	40	4	2.0
+carlyfiorina	1116377306417725446	Thank you, Johanna! I'm glad you're loving Find Your Way! https://t.co/90PYtDNO37	Thu Apr 11 16:27:45 +0000 2019	11	0	1.0
+carlyfiorina	1116370714020536320	@screpea @Morning_Joe Thank you so much! I hope you love Find Your Way, as well!	Thu Apr 11 16:01:34 +0000 2019	0	0	0.0
+carlyfiorina	1116370327032885248	"What we need to do is collaborate to solve problems, and there are loads of problems we can take on together. 
+
+I t… https://t.co/Y8r8UPsd99"	Thu Apr 11 16:00:01 +0000 2019	19	1	0.0
+carlyfiorina	1116364571097403392	"Thank you so much, @arthurbrooks. Very kind of you to say. 
+
+I hope people are reading ""Love Your Enemies,"" as well… https://t.co/RH33khudKR"	Thu Apr 11 15:37:09 +0000 2019	5	1	0.0
+carlyfiorina	1116340121870188544	Find Your Way is out NOW! Go to https://t.co/A2DSYPimT6 to order your copy. https://t.co/kQhBXyY74G	Thu Apr 11 14:00:00 +0000 2019	10	3	2.0
+carlyfiorina	1116310964939513858	@Jones_KellenM Thanks so much, Kellen! I hope you love Find Your Way, too. Let me know what you think!	Thu Apr 11 12:04:08 +0000 2019	7	1	0.0
+carlyfiorina	1116310671744995329	@JonKarn Thanks so much, Jon! I hope to meet her, as well. I hope she loves the book.	Thu Apr 11 12:02:58 +0000 2019	1	0	0.0
+carlyfiorina	1116310572390330369	@Debskee12 I hope to cross paths again! Personalized copies are also available on my website: https://t.co/iidDL0CCeH	Thu Apr 11 12:02:35 +0000 2019	1	0	0.0
+carlyfiorina	1116129578781687809	Signing Find Your Way at @BookendsNJ with owners Walter and Pat! https://t.co/1hp0alDPDv	Thu Apr 11 00:03:22 +0000 2019	24	1	4.0
+carlyfiorina	1116091370375086080	Thanks Tamara – I appreciate you taking the time to check out my book. I think it’s so important to connect with an… https://t.co/ZNqVMr85XT	Wed Apr 10 21:31:33 +0000 2019	7	0	0.0
+carlyfiorina	1116091180528361472	@Debskee12 Thanks, Deb! I hope you love it!	Wed Apr 10 21:30:48 +0000 2019	1	0	0.0
+carlyfiorina	1116091066011267072	@Jordan_Orris @rachel_morgan97 @FFL_of_America Thanks, Rachel and Jordan! 😁 I hope Find Your Way is a source of inspiration for you both!	Wed Apr 10 21:30:20 +0000 2019	5	2	0.0
+carlyfiorina	1116090641098919937	@TeeDee1 @Fubarang I hope you love it, @TeeDee1. Thanks for the support always!	Wed Apr 10 21:28:39 +0000 2019	1	0	0.0
+carlyfiorina	1116083431371264000	We have become obsessed with what goes on in Washington, and convinced it'll fix things. But politics is about winn… https://t.co/Tx0eg6uSBO	Wed Apr 10 21:00:00 +0000 2019	36	9	6.0
+carlyfiorina	1116053231589838848	Washington won't solve our problems. Those closest to the problems, facing them every day, know best how to solve t… https://t.co/hi50cGliO9	Wed Apr 10 19:00:00 +0000 2019	12	1	2.0
+carlyfiorina	1116038134234411008	This book is for people to realize that they have more potential than they realize, and that people closest to the… https://t.co/6tY7XHoHuB	Wed Apr 10 18:00:00 +0000 2019	14	1	1.0
+carlyfiorina	1116007938177552384	Find Your Way is out NOW! Go to https://t.co/A2DSYPimT6 to order your copy. https://t.co/H2WNbN2y6k	Wed Apr 10 16:00:01 +0000 2019	2	0	0.0
+carlyfiorina	1115992834748768257	It's not about the likes, shares or retweets. What matters is making life better for yourselves and those around yo… https://t.co/2SJiRC1Hcv	Wed Apr 10 15:00:00 +0000 2019	34	10	3.0
+carlyfiorina	1115977736181506050	Find Your Way is out NOW! Go to https://t.co/A2DSYPimT6 to order your copy. https://t.co/zCvn23ZPT4	Wed Apr 10 14:00:00 +0000 2019	6	0	0.0
+carlyfiorina	1115964518205726720	Thank you so much, Dr. Cloud, for sharing this, and for writing such a kind foreward. Honored to have the endorseme… https://t.co/CjOnyzZzBU	Wed Apr 10 13:07:29 +0000 2019	24	1	0.0
+carlyfiorina	1115962636674449410	Please join me at Bookends in Ridgewood, NJ, tonight, at 7:00 p.m. as I talk about and sign my new book, Find Your… https://t.co/P8dl2fMei8	Wed Apr 10 13:00:00 +0000 2019	3	1	0.0
+carlyfiorina	1115945550430527488	Looking forward to joining @morningmika on the @Morning_Joe set at 8:45am ET! Tune in!	Wed Apr 10 11:52:07 +0000 2019	25	3	16.0
+carlyfiorina	1115736141980930050	Part of the reason I wrote Find Your Way is because people are tired of the do-nothing slogans and vitriol of our p… https://t.co/m1eHdEdYhA	Tue Apr 09 22:00:00 +0000 2019	33	5	6.0
+carlyfiorina	1115734607167664133	Maybe between basketball games you can read it! Thanks @TweetRobJohnson for all of your help and friendship. https://t.co/ieWiPL3pEP	Tue Apr 09 21:53:54 +0000 2019	6	0	0.0
+carlyfiorina	1115712860418727939	@RomeosMom7 Thanks, Carol!!	Tue Apr 09 20:27:29 +0000 2019	1	0	0.0
+carlyfiorina	1115705942690033665	My new book, Find Your Way, is out TODAY! You can get a SIGNED copy here: https://t.co/VCd8pQyVyX https://t.co/mqsXidDPJs	Tue Apr 09 20:00:00 +0000 2019	11	0	10.0
+carlyfiorina	1115694821014945793	Thanks to the amazing team at @TyndaleHouse for your help making this book a reality! https://t.co/I8gsfsndcy	Tue Apr 09 19:15:48 +0000 2019	4	0	0.0
+carlyfiorina	1115690847465549825	Please join me at Bookends in Ridgewood, NJ, on Wednesday, April 10, at 7:00 p.m. as I talk about and sign my new b… https://t.co/H1vFbswTjB	Tue Apr 09 19:00:01 +0000 2019	3	0	0.0
+carlyfiorina	1115682791226781696	"Thanks for sharing, and thanks for everything, @AskAmandaMoran!
+
+https://t.co/tJFx2JBgrx"	Tue Apr 09 18:28:00 +0000 2019	9	1	0.0
+carlyfiorina	1115675749082525696	We are confused about what leadership is. A leader is someone who changes the order of things for the better, regar… https://t.co/ylT5vrlvKh	Tue Apr 09 18:00:01 +0000 2019	29	11	3.0
+carlyfiorina	1115668506677325825	@FFL_of_America Thank you so much!	Tue Apr 09 17:31:14 +0000 2019	1	0	0.0
+carlyfiorina	1115652622525005825	I've written this book to help you unlock the potential in yourself and those around you. It's out TODAY, and I hop… https://t.co/JdYirLQBfo	Tue Apr 09 16:28:07 +0000 2019	19	2	1.0
+carlyfiorina	1115621486335807488	I'll be on @SquawkStreet on @CNBC at 10:35 ET. Hope you tune in!	Tue Apr 09 14:24:24 +0000 2019	9	0	2.0
+carlyfiorina	1115610575432712193	@jfrank08 @cookevillewxguy Ha! Thanks for tuning in. I hope you enjoy Find Your Way... (And a heads up, you may wan… https://t.co/G51i3MmKVo	Tue Apr 09 13:41:02 +0000 2019	3	0	0.0
+carlyfiorina	1115610475327307777	@CorinaDimitris @AmericaNewsroom Thank you so much! I hope you enjoy Find Your Way - you can order it at… https://t.co/IQ3gYbfBkl	Tue Apr 09 13:40:39 +0000 2019	1	0	0.0
+carlyfiorina	1115608949003153409	Thank you so much, @david_avella. Was great to see you at @FoxNews this morning! https://t.co/BcY8c1Hudl	Tue Apr 09 13:34:35 +0000 2019	14	0	0.0
+carlyfiorina	1115606818506530816	"Join us now on @AmericaNewsroom! 
+
+Order Find Your Way at https://t.co/A2DSYP0Luw https://t.co/SZ0IiBhag3"	Tue Apr 09 13:26:07 +0000 2019	29	2	0.0
+carlyfiorina	1115604810516942855	@NeWNetwork Thank you for sharing this!	Tue Apr 09 13:18:08 +0000 2019	1	0	0.0
+carlyfiorina	1115604763930849280	@klips Thank you! I hope you enjoy it, Karin!	Tue Apr 09 13:17:57 +0000 2019	2	0	0.0
+carlyfiorina	1115584953612419072	"Hope you join us this morning! 
+
+@AmericaNewsroom @SandraSmithFox @BillHemmer https://t.co/Lj8VxY1aaQ"	Tue Apr 09 11:59:14 +0000 2019	49	8	1.0
+carlyfiorina	1115578424805007360	Thanks Carey – so enjoyed our conversation! Handling criticism is tough and you don’t master it in a day, but it’s… https://t.co/MTxIUr6z3Z	Tue Apr 09 11:33:17 +0000 2019	55	4	2.0
+carlyfiorina	1115577828114718720	@cleesmith Thanks! You can reach out to media (at) carlyfiorina (dot) com	Tue Apr 09 11:30:55 +0000 2019	0	0	0.0
+carlyfiorina	1115577486866296833	@MarcNH Thanks @MarcNH – I so enjoyed being with my friend @JohnCMaxwell and meeting so many leaders. Enjoy the boo… https://t.co/WxNk4v4ZP5	Tue Apr 09 11:29:33 +0000 2019	1	0	0.0
+carlyfiorina	1115554203588530176	My new book, Find Your Way, is out TODAY! I wrote this book to empower those facing problems in their lives, jobs a… https://t.co/oLgTW0Jo9j	Tue Apr 09 09:57:02 +0000 2019	128	26	16.0
+carlyfiorina	1115412183750463488	I love seeing people get unlocked and unleashed so they can connect with their true purpose in life. It is why I wr… https://t.co/89sRpOizvs	Tue Apr 09 00:32:42 +0000 2019	18	3	3.0
+carlyfiorina	1115402370433847296	I love seeing people get unlocked and unleashed so they can connect with their true purpose in life. It is why I wr… https://t.co/pOlVkGgeqK	Mon Apr 08 23:53:42 +0000 2019	15	2	2.0
+carlyfiorina	1115395670528155649	I love seeing people get unlocked and unleashed so they can connect with their true purpose in life. It is why I wr… https://t.co/gebjsx6ors	Mon Apr 08 23:27:05 +0000 2019	7	1	0.0
+carlyfiorina	1115327698421862403	I love seeing people get unlocked and unleashed so they can connect with their true purpose in life. It is why I wr… https://t.co/SdbMA942CC	Mon Apr 08 18:56:59 +0000 2019	24	5	3.0
+carlyfiorina	1115311695931543553	I love seeing people get unlocked and unleashed so they can connect with their true purpose in life. It is why I wr… https://t.co/IiiIBX9Fko	Mon Apr 08 17:53:24 +0000 2019	22	4	3.0
+carlyfiorina	1114174815500369920	Please join me at @BookendsNJ in Ridgewood, NJ, on Wednesday, April 10, at 7:00 p.m. as I talk about and sign my ne… https://t.co/reRB1UGM3W	Fri Apr 05 14:35:51 +0000 2019	15	7	2.0
+carlyfiorina	1113067566665105415	NEW EPISODE: I sit down with Capt. Ron Johnson, the retired Missouri Highway Patrolman who was tasked with restorin… https://t.co/mnv1KPjsPR	Tue Apr 02 13:16:02 +0000 2019	9	5	0.0
+carlyfiorina	1110974380799074305	"Thank you, my friend! Looking forward to being with you tomorrow! 
+
+Check out “Find Your Way” at… https://t.co/Kg8nnDPQA1"	Wed Mar 27 18:38:27 +0000 2019	9	0	0.0
+carlyfiorina	1110624962870562816	NEW EPISODE: I talk with @AdamMGrant about the importance of problem-raising for problem-solving, how to be an orig… https://t.co/HK14WOdde9	Tue Mar 26 19:30:00 +0000 2019	9	2	0.0
+carlyfiorina	1110622510008143873	Staying on the path isn’t about having a step-by-step plan. It’s about developing a set of character traits that pr… https://t.co/tVGyGJcPTH	Tue Mar 26 19:20:15 +0000 2019	19	4	2.0
+carlyfiorina	1108820132426665995	.@MeghanMcCain - so very proud of you. The apple doesn’t fall far from the tree. Those of us who knew your father k… https://t.co/PdnuzYq9cU	Thu Mar 21 19:58:15 +0000 2019	2541	130	19.0
+carlyfiorina	1108106399232466944	I'm truly honored to be appointed the Distinguished Clinical Professor in Leadership at @TheBuschSchool at… https://t.co/UhC6ZH5qAj	Tue Mar 19 20:42:07 +0000 2019	177	25	7.0
+carlyfiorina	1107993446458052608	I'm especially excited for today's episode. Kayla McKeon, America's first lobbyist with Down Syndrome, is one of th… https://t.co/N54Fu2NpPR	Tue Mar 19 13:13:17 +0000 2019	44	11	2.0
+carlyfiorina	1105444075296210944	"NEW EPISODE:
+I sat down with my friend, @arthurbrooks, to talk about his new book (https://t.co/bl5L9xzi2A), findin… https://t.co/BqV4HddKyh"	Tue Mar 12 12:23:00 +0000 2019	26	7	1.0
+carlyfiorina	1104095969988227073	"""I saw pride and focus and determination and hope because they were actually solving the problem in front of them.""… https://t.co/RW6oYkEAkm"	Fri Mar 08 19:06:07 +0000 2019	43	7	2.0
+carlyfiorina	1103748094020194305	"Hear this answer and much more on this week's podcast! On ""Ask Me Anything,"" I answer audience questions! Listen no… https://t.co/pfPu3lIJw2"	Thu Mar 07 20:03:46 +0000 2019	9	0	0.0
+carlyfiorina	1102967288637149184	Wondering if I'd ever run for office again? Several of our listeners asked - I respond to that &amp; more in Ask Me Any… https://t.co/NP44YQlWf1	Tue Mar 05 16:21:08 +0000 2019	10	4	0.0
+carlyfiorina	1102915161466142720	"NEW: Ep. 12: ""Ask Me Anything!""
+
+I sit down and take your questions for the whole episode. We cover a lot of ground… https://t.co/aOL4byxEDI"	Tue Mar 05 12:54:00 +0000 2019	20	6	2.0
+carlyfiorina	1102724906175946752	Excited to speak with you all tomorrow night! #SmithTerps https://t.co/BEfVhFlZdX	Tue Mar 05 00:17:59 +0000 2019	53	5	2.0
+carlyfiorina	1101587801345277952	Great to be with the @cheddar team celebrating the empowerment of women on #chedHER day! https://t.co/PpXNRHgc2F	Fri Mar 01 20:59:33 +0000 2019	45	9	3.0
+carlyfiorina	1100482884391981056	Looking forward to judging @IFANextGen at #IFA2019 tomorrow. These talented young entrepreneurs are truly the futur… https://t.co/GACbE4pL9x	Tue Feb 26 19:49:00 +0000 2019	27	2	3.0
+carlyfiorina	1100411686811402240	"NEW: ""How to talk about really hard to talk about things""
+
+I sit down with colleagues Marlo &amp; Jeffrey after disturb… https://t.co/cbB7Dl4myF"	Tue Feb 26 15:06:05 +0000 2019	20	5	0.0
+carlyfiorina	1098983836862611458	"ICYMI: ""The Strip Club Story""
+
+I talk about one of my most intimidating learning experiences. This &amp; much more will… https://t.co/HZy7Niae1u"	Fri Feb 22 16:32:19 +0000 2019	8	2	0.0
+carlyfiorina	1098384558490292225	On this weeks episode, I’m sharing a story about a time when I was very scared — and how I faced those fears (yes,… https://t.co/6Qvu0aEQJ1	Thu Feb 21 00:51:00 +0000 2019	10	1	0.0
+carlyfiorina	1098271713639481345	"“You are not yet all you can be.”
+This idea has been a defining feature of my life and it’s something I talk about… https://t.co/IaRvJrIsVR"	Wed Feb 20 17:22:36 +0000 2019	28	9	1.0
+carlyfiorina	1097838516938199040	"NEW: Ep. 10: ""The Strip Club Story""
+
+I talk about one of my most intimidating learning experiences. This &amp; much mor… https://t.co/YiIum2MTX1"	Tue Feb 19 12:41:13 +0000 2019	21	4	5.0
+carlyfiorina	1096167008402579458	"Hi! 👋🏻
+
+I’m on Instagram! Follow me at: https://t.co/HgIM7BGn2d https://t.co/ScTwAbLnsC"	Thu Feb 14 21:59:15 +0000 2019	67	11	7.0
+carlyfiorina	1095688494259884032	@mimiller09 @JohnCMaxwell Glad you enjoyed it, Michelle! Have a great rest of your week!	Wed Feb 13 14:17:48 +0000 2019	1	0	0.0
+carlyfiorina	1095496276529995776	"""People that are like us can't teach us nearly as much as the people that are unlike us."" - @JohnCMaxwell
+ 
+Listen… https://t.co/g5vZNDxwbs"	Wed Feb 13 01:34:00 +0000 2019	18	5	0.0
+carlyfiorina	1095347695659700226	NEW: Listen to Part 3/3 of my conversation with leadership expert, and my good friend, @JohnCMaxwell. On this episo… https://t.co/3QUOhwF71R	Tue Feb 12 15:43:35 +0000 2019	57	13	3.0
+carlyfiorina	1094963981297553409	@DCJeniffer @secupp @UnfilteredSE Thanks! I hope you enjoy the book!	Mon Feb 11 14:18:51 +0000 2019	0	0	0.0
+carlyfiorina	1094963547732393984	@MarcNH @JohnCMaxwell Thanks so much, Marc! Have a great week!	Mon Feb 11 14:17:07 +0000 2019	1	0	0.0
+carlyfiorina	1094963437845790721	@TeeDee1 @JohnCMaxwell Thank you so much! Glad you're enjoying the conversations and the bonuses!	Mon Feb 11 14:16:41 +0000 2019	1	0	0.0
+carlyfiorina	1094671644642234368	After you've listened to Part 2, check out this bonus episode from my team on the lessons and practical takeaways f… https://t.co/qjPE7JR1Wc	Sun Feb 10 18:57:12 +0000 2019	7	1	0.0
+carlyfiorina	1094384802428538880	@CLSNEW Thank you, Carol!	Sat Feb 09 23:57:24 +0000 2019	0	0	0.0
+carlyfiorina	1094366288414162944	Looking forward to joining @secupp on @UnfilteredSE tonight! https://t.co/cBdFXkMzfL	Sat Feb 09 22:43:50 +0000 2019	49	6	9.0
+carlyfiorina	1094272660203294720	ICYMI: This week's episode of By Example features part 2 of my conversation with @JohnCMaxwell! I also encourage yo… https://t.co/rH6UmjPqBy	Sat Feb 09 16:31:47 +0000 2019	45	7	1.0
+carlyfiorina	1093983160285777922	"You can hear our conversation here: 
+🎵 iTunes: https://t.co/G82xJYUDEg
+🖥️ More: https://t.co/M2F63MraIi
+@uofl @UofLAlum"	Fri Feb 08 21:21:25 +0000 2019	6	0	0.0
+carlyfiorina	1093983153214111744	Read my op-ed in the @courierjournal about Dr. Neeli Bendapudi (@UofLPresNeeli), and my takeaways from our conversa… https://t.co/jQAHL55JxE	Fri Feb 08 21:21:23 +0000 2019	11	3	1.0
+carlyfiorina	1093909432466132995	@UofLPresNeeli Happy anniversary to you and Venkat! I still remember your great story. Enjoy your day!	Fri Feb 08 16:28:27 +0000 2019	9	0	0.0
+carlyfiorina	1093548462434594817	"""Everything rises and falls on leadership. If we can help people lift that leadership lid, not only do they help th… https://t.co/MBenLpmx7o"	Thu Feb 07 16:34:05 +0000 2019	27	5	1.0
+carlyfiorina	1092901510894231552	Today's guest on By Example, @JohnCMaxwell, also has a new book coming out today! You can check out #LeaderShift he… https://t.co/6PKKO5wSYS	Tue Feb 05 21:43:19 +0000 2019	15	2	2.0
+carlyfiorina	1092766036687052800	"NEW: Listen to part 2 of my conversation with leadership expert, and my good friend, @JohnCMaxwell:
+
+🎵 iTunes:… https://t.co/RTn3ldnb4e"	Tue Feb 05 12:45:00 +0000 2019	24	6	2.0
+carlyfiorina	1092458789025038337	"ICYMI: Click below to listen to my conversation with my friend and leadership expert, @JohnCMaxwell.
+
+🎵 iTunes:… https://t.co/KsON2NlVJV"	Mon Feb 04 16:24:06 +0000 2019	7	4	0.0
+carlyfiorina	1092453001317531648	@angelanakabugo @JohnCMaxwell Exactly! That's a leader's most important responsibility!	Mon Feb 04 16:01:06 +0000 2019	1	0	0.0
+carlyfiorina	1092452869058555904	@DivineInshuti @JohnCMaxwell Hope you enjoyed our discussion. More comes out tomorrow!	Mon Feb 04 16:00:35 +0000 2019	1	0	0.0
+carlyfiorina	1092452732743634944	@RobothamRojan @JohnCMaxwell It's such a good reminder from @JohnCMaxwell!	Mon Feb 04 16:00:02 +0000 2019	0	0	0.0
+carlyfiorina	1092170632123555840	After you've listened to Part 1, check out this bonus episode from my team on the lessons and practical takeaways f… https://t.co/GGje4aTTH8	Sun Feb 03 21:19:04 +0000 2019	8	0	0.0
+carlyfiorina	1091346189222580226	"""I said, 'Dad, you always encourage people. How do you know that people need encouragement?' He smiled real big. He… https://t.co/Whomvlb7Hj"	Fri Feb 01 14:43:02 +0000 2019	214	44	7.0
+carlyfiorina	1090980777154801665	@cubbiefan4 @SenatorDole It's so important to prioritize your time &amp; to collaborate with those around you, so you c… https://t.co/qvyDgpr4xC	Thu Jan 31 14:31:01 +0000 2019	0	0	0.0
+carlyfiorina	1090980239667269634	@MrMac6489 Thank you! I hope you're enjoying the podcast so far!	Thu Jan 31 14:28:53 +0000 2019	0	0	0.0
+carlyfiorina	1090979947295006720	@RickyKamal99 @JohnCMaxwell Empathy is absolutely required in leadership!	Thu Jan 31 14:27:43 +0000 2019	1	0	0.0
+carlyfiorina	1090773658421755907	"""You learn leadership by practicing leadership. You just don't learn it academically. It's not a knowledge issue. Y… https://t.co/Btdg2kAOzu"	Thu Jan 31 00:48:00 +0000 2019	50	16	3.0
+carlyfiorina	1090707187318603778	I’m excited to be one of the first guests on @TheBushCenter’s new #podcast, #TheStrategerist! In my episode we talk… https://t.co/8b1VCvRXj8	Wed Jan 30 20:23:52 +0000 2019	49	7	3.0
+carlyfiorina	1090622949059629057	@cristygupton @JohnCMaxwell Agreed! Glad you enjoyed it!	Wed Jan 30 14:49:08 +0000 2019	0	0	0.0
+carlyfiorina	1090622800782680066	@devstc @JohnCMaxwell Thank you so much, Devon! Hope you enjoyed the episode. Part 2 of our conversation is going to come out next Tuesday!	Wed Jan 30 14:48:33 +0000 2019	1	0	0.0
+carlyfiorina	1090584514705965057	"""People ask me all the time, 'John, what's your greatest leadership challenge?' And I say, 'Leading me.'""
+-… https://t.co/vjqnNeLWmb"	Wed Jan 30 12:16:25 +0000 2019	10	1	0.0
+carlyfiorina	1090303054224732160	Looking forward to joining you! https://t.co/bawNuVQea2	Tue Jan 29 17:37:59 +0000 2019	19	2	0.0
+carlyfiorina	1090233696001671169	"NEW EPISODE: Listen to Part 1 of my conversation with @JohnCMaxwell! Live now:
+
+🎵 iTunes: https://t.co/G82xJYUDEg… https://t.co/fKBBKmcg6v"	Tue Jan 29 13:02:23 +0000 2019	24	6	5.0
